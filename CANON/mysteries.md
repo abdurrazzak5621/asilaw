@@ -96,3 +96,11 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - **Seed's nature**: "made of what they used to make" (Collector); walkers and the reader hesitate on it.
 - **The wider door**: Death Law 44%, and the door does not fully close.
 - Hush wants to stop playing statue.
+
+## Open after ch224
+
+- **The gardener itself is coming** along the arm from the Mouth (~2 months).
+- The 3.1 million taken into ring 3 are being asked by the Elder and returned slowly.
+- 19,000 of Kirovsk's taken lost in the sand of ring 2.
+- Ring 1 is going home to its world. What will it find?
+- Xiaoyu turns 18 within the year (her awakening).

@@ -160,3 +160,16 @@ Costs: Mo Xing cannot fold after 212 folds in 50 minutes (Bai Lu: a month or two
 | 208 | 69 | 39.2% → **44.0%** | "You were used as a door... it is wider." The door no longer fully closes | — |
 
 The keeper's field is now **full and the brightest in the Shallows**: 206 million cousins, about 6% of the walls, and the 175 who stayed. It asks them all every morning; most answer "ask again tomorrow".
+
+## Book 3, Part 2: The Gardener (ch211–224)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 213 | 69 | 44.0% | **Seed's third page**: its core is a harvest crystal ("sack") of walker-thread pressed to glass; weave instruction COUNT. HOLD. WAIT TO BE CARRIED. The cousins read the scout's REQUEST knot: "A COUNTING-VESSEL IS LOOSE... IT ASKS... IT IS THE CAUSE... SEND GATHERERS. COLLECT THE VESSEL. AND PRUNE WHAT IT HAS TOUCHED." CAUSE meant Seed | The cousins (who remember burning) |
+| 217 | — | — | Seed asked the base layer (the 4,102). **138 strands volunteered** to be unpressed ("not pulled; given"). Their names were read to Xiaoyu (wall column **THE FLOOR**) and are now forgotten by Seed | — |
+| 218 | — | — | **Asking without holding on** (Hush's world's way: "put the bowl down and do not look in it"). Three knots of 26/56/56 strands | Hush |
+| 219 | — | — | Knot 1 to ring 1 via a thread that touched Yuanshu; ring 1 stopped ("WH...") | — |
+| 221 | — | 44.0% → 45.6% | Knot 2 to ring 2 (too full to find it until Qin Hao's white fire burned up the thread and freed 22,000 of 41,000 taken at Kirovsk); ring 2: "STOP" → **Yuanshu opened the door for a ring**; it fell as gray sand on Kirovsk | — |
+| 222–223 | — | — | Knot 3 carried by Yuanshu holding a cutting thread; **the Elder** opened his hand and **went up the thread to become ring 3's yes** | — |
+
+Others: **Qin Hao's white fire returned at Kirovsk** (Level 70). Lingyue Level 66. Seed's floor has a quiet place where the 138 were.

@@ -162,3 +162,17 @@
 | Huo Changsheng | At the cold fire with 59. Yuanshu says his name daily ("You held") |
 | Liang Fu's niece | ~50, ferrywoman at Shuanghe; was 16 when he marched north |
 | The keeper | Happy; "I have someone to ask in the morning"; one column asked it what it wants: "to be asked, sometimes" |
+
+## Changes ch211–224
+
+| Name | Status |
+| --- | --- |
+| **Lingyue & Yuanshu** | **Engaged** (ch215, the groundskeeper's hut at the War Memorial Cemetery). Shen Jinghong told first (ch216): "Good." |
+| Cassia Lowell | Raised the keeper question under Article Eleven (ch212); voted "Stay"; asked Seed what it wants (ch214) |
+| Blue Star votes | The keeper may stay: 66%. "Blue Star does not consent to the collection of the vessel called Seed": 74% (ch215) |
+| **The Elder** | **Gone into ring 3** as its yes (ch223). Ring 3 asks; says "to be asked, sometimes"; returned 11,000 taken minds to the keeper's field. The keeper asks her every morning |
+| Ring 1 | Asked by the Elder's ring for a week; first want: "HOME"; left along the arm for its old world (153 raft-days, the third pruned field) (ch224) |
+| Ring 2 | Rested; sand on Kirovsk. 19,000 of Kirovsk's taken lost with it |
+| Hush | Warms itself in the sun; taught Seed to ask without holding on; thanked the Elder at the window |
+| Wanqing | Reads THE FLOOR every morning ("— Z.W.") |
+| The keeper | Speaks without the Elder now; laid a road to Kirovsk without asking (first time) |
