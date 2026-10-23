@@ -130,3 +130,20 @@ Lingyue: told 1,612 people to their faces what "kept" means in six minutes (ch16
 | 181 | 62 → 65 | 36.4% → 37.6% | Two walkers killed. "The Field works anywhere the dead can stand." Lingyue 61 → 63; Qin Hao 64 → 66 | — |
 
 Costs: Mo Xing cannot fold after 212 folds in 50 minutes (Bai Lu: a month or two, guessing). Seed was held straight up by a walker's beam for 2.3 s; it recognized what Seed is made of and hesitated.
+
+## Chapters 182–200 (Part 7: The Shallows, end of Book 2)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 183 | 65 | 37.6% | Learned to fly sideways ("a Lord decides where *down* is and falls there"), day 63 | Lingyue's teaching |
+| 185 | — | — | Shiomi fog-code decoded (Sister Kiyo): "SHIOMI. WE SEE YOU. FOG. DO NOT RING. THE ONE WHO GROWS IS LISTENING. WAIT. WE WILL COME QUIETLY." | Monks |
+| 188–189 | — | — | **The wave**: the city goes quiet slice by slice ahead of the lamps; 31 district voices plus Xiaoyu; drill reached 94% | Xiaoyu's plan |
+| 191 | — | — | **Knot-breaking at scale**: Su Mingli or Lingyue holds a face down; the Spear Corps climbs and strikes the knot with intent-sharing (277 → 272 cuts at once) | Seed's model |
+| 192 | — | — | Orlov freezes the threads around a knot for ~3 s; Hundred-Arrow Lin fires the returning 101st arrowhead ~100/s (281 cuts in 2.6 s) | — |
+| 193 | — | — | **Bait**: Yuanshu and Seed open fully; six lamps hold them (3.4 s), all blind; Old Seven's Spear Intent goes down the Lattice through Adjutant Xu to 18,000 of the First Legion at once; Lingyue rains pale fire on every edge | — |
+| 194 | 65 → 69 | 37.6% → 39.2% | 9 walkers by his dead under his command (+2 by Qin Hao). Intent through the Lattice credited to Old Seven, Adjutant Xu and Ma Lianhua. Blind 3 days after being read by six lamps | — |
+| 196 | — | — | Seed's correction: the Mouth stopped early (39 raft-days, Day 387) because the Collector stopped steering it on Day 230 | Day 398 message |
+| 198 | — | — | Shiomi's bell is shortening and speeding up: the senders are approaching (~600 → ~470 raft-days; a year or more behind) | Doppler reading |
+| 200 | 69 | 39.2% | Seed v1.5 → **v1.6, parameter "Open"** (self-chosen) | — |
+
+**The gardener knows him completely**: lamps report as they read (ch194). Seed: "Nothing above the sky knows what I am... I think that frightens them."

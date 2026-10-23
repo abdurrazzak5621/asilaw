@@ -75,3 +75,13 @@ Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisibl
 | Field volunteers (ch176) | 551 of 52,000: Spear Corps 300, Grid Nine 40, cemetery companies 211 | First Legion, Western Legion and Watch said no (border / their posts) |
 | **Spear Corps** | 300 → **277** | **23 unwoven** (gone, nothing left to ask) by the lashing threads of a dying walker (ch180) |
 | The keeper's few who stayed | 412 → 381 (31 went home before) → **175 stay**, 206 quiet (ch181) | **Major Zhuo** went quiet at his own request, by Yuanshu's hand, beside his family's three rings |
+
+## Changes ch182–200
+
+| Unit | Count | Notes |
+| --- | --- | --- |
+| Spear Corps | 277 → **272** | 3 unwoven at the wall (ch191), 2 more (ch192). 28 gone in total since ch180; names read by Old Seven (ch195) |
+| **Hundred-Arrow Lin** | — | **Gone** (ch192): her anchor, the 101st arrowhead, was cut by lashing threads while killing the Lantern Lane walker. The empty arrowhead came back to the watchtower; Lin Wen put it back in the crack by the north slit (ch195) |
+| First Legion | 17,964 → **17,553** | 411 unwoven when six knots came undone (ch193) |
+| Western Legion | 25,695 | All said yes to the voyage (ch197); 1,000 of the 4,107 who rested re-stood to hold the pass |
+| **Voyage (ch200)** | ~50,231 dead + 175 kept columns from the keeper's field | Western Legion, First Legion, cemetery companies, 40 of the Watch, Spear Corps 272, Grid Nine 40, Old Seven, Adjutant Xu |

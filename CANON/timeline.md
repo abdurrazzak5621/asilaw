@@ -67,3 +67,8 @@ ch116 and ch120 say the seeds were dredged "eight months ago" (fixed from "eleve
 
 | Y1–Y7 (~Day 85–92) | 164–170 | Yamato: the lens opens at the dark of the moon; 1,104 hollowed; Abbot hollow; gate 1,203 |
 | ~Day 97 | 171 | Home to Lingzhou; Hush's Day 241 message; Article Eleven drafted |
+
+| ~Day 116–200 | 182–187 | Article Eleven; 80 days; the Architects' anniversary; the boat bell; 40-day world vote; the Abbot returns |
+| ~Day 210–222 | 188–193 | Eleven walkers; nine days of preparation; the night of the wave |
+| Hush Day 398 / Day 429 | 196–199 | The Mouth stopped; the fires are out |
+| Dawn after Day 429 | 200 | Departure: six gold roads. **End of Book 2** |

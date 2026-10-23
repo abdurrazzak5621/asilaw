@@ -79,3 +79,12 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - **Shiomi's bell** from the deep water, every 412 s. Who rings it? Concordia: listen, do not shout; the 372 monks listen nightly (ch175).
 - The Mouth stops in ~10 months; the keeper will carry them if it is cold.
 - Article Eleven still before Concordia.
+
+## Open at the end of Book 2 (ch200)
+
+- **The voyage** to the cold Mouth (39 raft-days): Hush, Huo + 60, Liang Fu, the Sixth, the cousins, 281 million minds.
+- **Pruning along the arm**: two fields dark (206 and 180 raft-days), about 3 raft-days a night toward the keeper; it may reach the Mouth when they do. Seed: 64% that it is the gardener or something it sent.
+- **Shiomi / Ichiro's people** coming quietly from the deep water, a year or more behind.
+- **The Collector** keeps wants; it took Liang Fu's and the Architects'.
+- 1,104 hollows in Yamato, 212 Heishui, 34 Lingzhou; some are coming back.
+- Qin Hao's white fire; Mo Xing's folds are back.

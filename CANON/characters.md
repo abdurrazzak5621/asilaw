@@ -134,3 +134,20 @@
 | Su Mingli | Taught Lingyue; stayed to hold the city. "I'm tired of being the only one who's frightened." |
 | Mo Xing | Cannot fold (temporary?) |
 | Xiaoyu | Started the SHIOMI column; the INSIDE seconds were her idea |
+
+## Changes ch182–200
+
+| Name | Status |
+| --- | --- |
+| General Han Yizhou | Huaxia Defense Ministry; wrote Article Eleven's last sentence; son Pvt **Han Jiale** (Grid Nine, one of the 40 who went to the field). At Heishui he asked his batteries to hold one more hour: **212 taken** (hollow, incl. Sgt **Pei Wendong**). Visits the Pavilion on Wednesdays |
+| Ngozi Eze | Southern Compact chair (Ifeoma's former deputy minister of the coast); evacuated 211,000 from Lingzhou in four days |
+| Sister Kiyo | Nun under the 340th gate; her brother **Ichiro** of Shiomi, fog-ringer, was taken in the cutting; his boat call (five quick notes) now rings from the deep water: "WE ARE COMING. QUIETLY. TO THE COLD FIRE. WAIT FOR US THERE." Yuanshu promised to tell him "you talk too much... I waited... light the lamp on the shore" |
+| Tanaka Ryo | First hollow to come back (day 54); "like reaching for a step in the dark" |
+| Kurose Tōya | Came back (ch187) with no memory of what he wanted; sweeps the path; Ren asks him daily. His first new want (ch200): to know if they come back |
+| The Architects | Returned on the anniversary (ch184); said sorry for two hours; their whole people were probably kept by the Collector (they dreamed the Hungers) |
+| Akosua Mensah | "I believe you mean it. That's not forgiving." |
+| Xiaoyu | Called the city for 51 minutes; lost her voice; chose to stay ("someone has to write their names when they come home") |
+| Wanqing | Took the microphone when Xiaoyu's voice broke; "Lanterns" at the departure |
+| Qin Hao | Killed 2 walkers; his thread-burning white fire is gone or hidden; "ordinary fire, until" |
+| Captain Lin Wen | Stands in her mother's footprints on the watchtower |
+| Lingyue & Yuanshu | ch186: "I want to be counted as the one who stands next to you." Together on the voyage |
