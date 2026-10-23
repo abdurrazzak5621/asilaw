@@ -22,7 +22,7 @@
 | Sister Ning | Leader of the Quiet | Ossuary witness | ch114 |
 | Fat Tan | Former bone broker; ledger keeper | Ossuary; paid for Zhao's gate (ch111) | ch114 |
 | Qin Hao 秦昊 | SS Fire Mage, Western War Zone; wears his father's colonel's star | Western Pass with his grandfather (ch106) | ch110 |
-| Mo Xing / Mo Shi | Twins: Space (~1 m fold) / Time (~3 s ahead) | Landed on Blue Star with the raft (ch110) | ch110 |
+| Mo Xing / Mo Shi | Twins: Space (folds threads 300 m away, ch57; bleeds from the effort) / Time (~3–5 s ahead) | Landed on Blue Star with the raft (ch110) | ch110 |
 | Bai Lu | Healing Law (small things); Instructor Bai's niece | Port Halvard trip (ch112) | ch112 |
 | Vera Sokolova | Northern Union sergeant | Found the Northern Union seed (ch120) | ch120 |
 | Yan Shuang | Former Northern Gate driver, one hand; guardian of Ama (16) | Lingzhou | ch114 |
