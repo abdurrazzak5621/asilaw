@@ -64,3 +64,6 @@ ch116 and ch120 say the seeds were dredged "eight months ago" (fixed from "eleve
 | P5 | 160 | The white boat; Level 61 available |
 | P8–P9 | 161 | Palace funeral; Ren's call; Lingyue flies to Yamato; frigate leaves |
 | P11 night | 162–163 | Lord tribulation at sea |
+
+| Y1–Y7 (~Day 85–92) | 164–170 | Yamato: the lens opens at the dark of the moon; 1,104 hollowed; Abbot hollow; gate 1,203 |
+| ~Day 97 | 171 | Home to Lingzhou; Hush's Day 241 message; Article Eleven drafted |

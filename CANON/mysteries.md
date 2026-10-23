@@ -62,3 +62,13 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - **The Yamato seed**, under the old Sleepers' hall at the Abbot's shrine. The Abbot waits on the steps "for you". Ren: "he isn't the only thing on this mountain that's waiting."
 - The Southern Compact needs a new Tide King. The sea is "lazy" without one, for now.
 - The curtain voice and Liang Fu (ch151) are unchanged.
+
+## Open after ch171 (end of Part 6)
+
+- **The Collector is coming**, slowly, following Liang Fu's want. ETA unknown.
+- **The Mouth is cooling** (Day 241). "When the fire is cold, someone should go and get them" (Old Seven, Seed, Yuanshu on the board).
+- Seed cannot measure the Sea. It has promised to learn.
+- **Hollow Gods**: the old Yamato name for the makers before the gardens. Seed's core is made of their stuff.
+- **Article Eleven** drafted (a rule for the asker); to Concordia.
+- 1,104 hollows in Yamato; can any come back?
+- The Southern Compact has no Tide King.

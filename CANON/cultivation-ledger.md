@@ -103,3 +103,16 @@ Others: **Qin Hao: Lord** (ch147); his Fire turned over into fire that burns wha
 **Lingyue's own technique (ch157): "Light Runs Downhill."** Inside the Field her pale fire gains weight; she drops it instead of shining it, so it falls through 3 km of water (or down a trunk's throat) to whatever edge is waiting. Seed recorded it under her name, not as its own.
 
 ASI limits confirmed: Seed is bad at water and slow to model it; it cannot model burning from inside (still); it counted Ifeoma as a tool ("a pipe") and missed her own solution; it modeled the three trunks as separate when they were one sea (ch158).
+
+## Chapters 164–171 (Part 6: The Tide, Yamato)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 164 | 61 | 36.4% | Field ~9.8 km; still cannot fly "along", only up | — |
+| 165 | — | — | Seed's three hypotheses for the Yamato seed (lens / door / bait); finds it was fed the Sleepers' 1,200 years of watching, swept up by the Abbot. Every seed rings when broken | — |
+| 166–167 | — | — | Seed chooses to stand in the open rather than hide ("rain without a coat") | Katya's no |
+| 168 | — | — | Did not answer the Collector's question; "the only thing it cannot keep is what you do not give it" | The lens |
+| 169 | — | — | The monks "watch it back" and reclaim the watching; the lens closes in ~6 minutes; the last ring is folded into silence | — |
+| 171 | — | — | Drafted **Article Eleven** (a rule for the asker) | — |
+
+Lingyue: told 1,612 people to their faces what "kept" means in six minutes (ch169); won the promised spar 3–0 (ch170).

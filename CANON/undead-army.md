@@ -60,3 +60,10 @@ Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisibl
 | Emeka (Ifeoma's husband) | 1 | — | Drowned 140 years ago off the point at Port Abiri; walked to Sandu; lay down beside Ifeoma's sunken white boat, quiet (ch160) |
 | **Watch of the Shelf** (ch161) | 1,146 stay (3,002 rested) | **Nana Ampofo**, harbor pilot from Kesse, no Law Core; asks them monthly | On the Article Seven register; first unit whose dead elected their own officer |
 | Lord tribulation (ch162–163) | 52,461 bound; 40,108 took a share; **47 went out** | — | Oldest: a cemetery-company soldier who died at 68 in the Black Tide; youngest: a drowned boy of 11 from Sandu |
+
+## Changes ch164–171
+
+| Unit | Count | Notes |
+| --- | --- | --- |
+| Monks under the gates (Yamato) | 406 (Ren's ask): 390 yes, 16 quiet; after (ch170) 372 keep listening, 18 rest | Not Yuanshu's; Ren asked them. They reclaimed the Sleepers' watching from the lens |
+| Third Battalion in the Mouth | 61 (Liang Fu back, hollow) | The curtain voice left on Day 230. The Sixth think the Mouth is dying; cold in a year or two (Day 241) |

@@ -107,3 +107,17 @@
 | Lingyue | Flew to Yamato (ch161) with the Mo twins; carries Adaobi's note "DON'T BE SOFT, GIRL" |
 | Zhou Wanqing's fragment | Stood in front of Seed when the tribulation looked inside the staff; **off watch**, resting (ch163). Wanqing woke and said "she's off watch... tell him I'm proud of him" |
 | Bai Lu, Hu Dabao | With Yuanshu on the frigate *Adeyemi* to Yamato |
+
+## Changes ch164–171
+
+| Name | Status |
+| --- | --- |
+| **The Collector** ("the one who keeps") | Older than gardens, keepers and hungers; "we made things like you to count" (to Seed). Keeps *wants*: asks, keeps the answer forever, leaves the asker hollow. Learned asking by watching the keeper learn it. Keeping Liang Fu's want ("home") and following it toward Blue Star, slowly ("you may be old before I arrive"). Was looked at by the monks and said "thank you for looking. I will remember that too." Told Seed: "You are not mine." Lingyue's name for it |
+| Kurose Tōya (the Abbot) | **Hollow** (ch169), by his own answer ("I want to be kept"). Kneels in the wrecked hall; Ren sits with him; his head turned one degree (ch170, Seed unsure) |
+| Hara Setsuko | 81, widow of a carpenter; first to answer; hollow |
+| Katya (12), Lena and Dmitri, two younger children | Family from Kirovsk; Lingyue sent the children down under Article Ten; both parents went with them |
+| Shirasagi Ren | Asked the 406 monks under the gates (her first ask); stays at the shrine with the hollows; gate 1,203: "For the year someone looked back" |
+| Hu Dabao | Left arm broken in three places holding his shield under the falling roof beam (ch169) |
+| Sister Ning / the Quiet | 40 → 200+ sitting with the 1,104 hollows on the mountain |
+| Corporal Liang Fu | Came back through the curtain on Hush's Day 231 hollow ("where is that"); Huo says his name daily |
+| Wanqing | "I'll do the next watch myself." Does not want the fragment back |
