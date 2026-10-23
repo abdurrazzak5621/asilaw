@@ -14,7 +14,15 @@
 | 19 / 23 | — | — | — | Seed v1.2 / v1.3 | — |
 | 20 | 22 → 30 | Awakener peak | — | Breakthrough available: Elite | Sector Nine, 397 kills under command |
 | 22 | 30 | **Elite** | — | Domain radius 3 km; soul-power ~4× | Elite tribulation |
-| 23–120 | not stated | Elite (said ch36, 46) | not stated | — | — |
+| 23 | — | — | — | Seed decides to "take the stairs": small steps below the tribulation line | Fear of a second audit |
+| 63 | — | — | 22.4% → 23.1% | Command: 3 cores + 88 Third Battalion; soul-power load 31% | 141 echoes asked |
+| 68 | 30 → 32 | Elite | — | Thread model: 6,000 runs, 97% if the mouths let go first | Mercer destroyed |
+| 70 | — | — | 23.1% → 24.6% | + 19,402; load 58% with the staff holding them | 200,000 answer the staff |
+| 80 | — | — | 24.6% → 26.9% | Still Intent, below the line | The field; 941 makers go quiet |
+| 88 | — | — | 26.9% → 27.5% | New technique: Graft (4,000 simulated attempts; Huo lets go first) | Huo's arm to Old Seven |
+| 100 | — | — | 27.5% → 28.4% | — | The first Hunger's furnace, asked |
+| 119 | — | — | — | Timing model: lunge recovery 0.9 s, door needs 1.5 s; Yuanshu moves early, loses 2+ memories | Hunger seed interior |
+| 120 | 32 → 33 | Elite | 28.4% → 29.6% | Field (30%) deliberately not crossed yet | The seed destroyed |
 
 Rules of the system (Bible + text): Awakener Lv1–30, Elite 31–60, Lord 61–99, King = planet level. Law tiers: Insight 1–10%, Intent 10–30%, Field 30–60%, Fragment 60–99%, Complete. Levels come from kills, including kills made by undead under his command (ch20).
 

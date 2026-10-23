@@ -5,9 +5,9 @@
 | Tier (Bible) | Shown on page? |
 | --- | --- |
 | Blue Star | Yes: five nations, eleven Steles, rifts, the Northern Wastes |
-| The Star Sea (Human Federation, alien empires) | **Not named.** [proposal: the local "Sea" is its shallows] |
+| The Star Sea (Human Federation, alien empires) | **Named from ch80** for the dark between nearby worlds (renamed from "Chaos Sea", 2026-10-23); the Elder: "What you would call space" (ch83). Only its near edge has been visited, carried by the keeper (ch90–110); no Federation or empires met yet |
 | The Swarm World · The Universe · The Domain | Not named |
-| The Chaos Sea | **Named from ch80** for the dark between nearby worlds; the Elder: "What you would call space" (ch83) [flag] |
+| The Chaos Sea | Not reached. Named only in the title and the Bible (tier 6); Chaos Lords erased Intelligence |
 | The Origin | Not named |
 
 ## Canon structures of the near cosmos
