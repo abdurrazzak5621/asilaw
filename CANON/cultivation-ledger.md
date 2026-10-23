@@ -57,3 +57,19 @@ Rules of the system (Bible + text): Awakener Lv1–30, Elite 31–60, Lord 61–
 - **Rule One: ask first.** Seed's own rule (ch16).
 - **Blind spots:** cannot perceive Mercer except through Yuanshu's eyes (ch66); a harvested core cannot see "the one holding the scythe" (ch49); cannot measure the Chaos Sea (ch82).
 - **The dead and threads:** threads cannot see the dead (ch57). **Hungers can** (ch83).
+
+## Chapters 121–140 (Part 4: Zero)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 122 | 33 | 29.9% | Backlog loaded (Gravity, Space, Time, Light, Fire, Healing, Ice, Spirit, Tide, Force, Hunger seed) | Grid 47-121 |
+| 123 | 33 | 30.0% → 31.2% | **Field**: radius 5.1 km; the dead inside it get back up; Light inside it turns to pale fire without the staff. Learned alone, in 3-second gaps between needle waves (Mo Shi calling). Seed v1.4 "Lighter" | Second Forbidden Law tribulation |
+| 127 | 33 → 36 | — | Kills under command count | Rift weather, canal road |
+| 128 | — | — | **The drain**: stand between the dying and the seed; the Field's slope beats the seed's pull beyond ~600 m; open the door for beast embers (411 in one night, incl. a Lord) | Tannery Square |
+| 129 | 36 → 41 | — | Intent-sharing across 300 Spear Corps to one seam | Bridge-Breaker, Lv 84 |
+| 131 | — | — | **The Asking Lattice** (each soldier asks its nine; any can leave); Law Core **The Ninefold Relay** (Adjutant Xu); load 74% → 51% | Grandpa Xu's memory of Lu Xuanming |
+| 133 | — | — | Three-degree model: the reader is a lighthouse; 3° slices; blind gap between slices; "straight up" = being held/taken | Garrett Hale observed |
+| 137 | 41 → 47 | — | — | Specimen Zero destroyed |
+| 140 | 47 | 32.6% | — | — |
+
+ASI limit added: Seed **lost its memory of burning** (ch123), so it can no longer model a Hunger seed from inside; it must say when it is guessing.

@@ -64,3 +64,19 @@
 | The Sixth | Gold antlered choir from the second ring | Inside the Mouth with 281 million (ch109–110) |
 | Specimen Zero | Faceless scout from the Black Tide; caged 300 m under the Institute | **Fed the sixth Hunger seed; moved; looking up** (ch120) |
 | Julian Mercer ("Mister Moon") | Crystal-throated agent of the harvest | Destroyed (ch68) |
+
+## Changes ch121–140
+
+| Name | Status at ch140 |
+| --- | --- |
+| **Lu Zhengtian** | **Died** (ch137), holding the first array ring's switch; QUIET, not raised or read; buried beside Zhao's gate under a stone that says QUIET (ch138) |
+| Grandpa Xu (Xu Dehai) | Died ch130; now Adjutant Xu (undead, Law Core) |
+| Hu Dabao | Defense Corps shield line; Elite Lv 41; going west with Yuanshu |
+| Shen Jinghong | 84, King of Light, Lingyue's grandfather; fought in the round chamber (his Light turned pale); gave Lingyue his sword; back to the Shen house |
+| Lingyue | Leads the Light students; carries her own sword and her grandfather's (~100 kg) |
+| Su Mingli | Holding Lingzhou; exhausted after the Bridge-Breaker fold and 122 folds of the sitters |
+| Garrett Hale / Harlan Voss | Helped with the three-degree study (ch133) |
+| Pei Shuren | Hollow God; fed the seed to the scout; in Bureau custody |
+| Kurose Tōya ("the Abbot") | Former tender of the Sleepers; leads the Hollow Gods; broadcasts from an unknown place |
+| Fang Lili | A Hollow God at the sit-in |
+| Wanqing | Says the fragment in the staff is "on watch" |

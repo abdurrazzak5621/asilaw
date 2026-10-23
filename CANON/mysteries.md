@@ -38,3 +38,12 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - Walter Ashby went quiet (ch120).
 - Seed lost three logs and Wanqing's recording (ch23), and released 11 of its 4,113 (ch77).
 - Port Abiri's 3,011 dead (ch84).
+
+## Open after ch140
+
+- **The gardener farms keepers** (ch132): it set the 31h14m pulse; its walkers took the oldest columns; it will come to see why the field is empty.
+- **The scout's message** (ch139): FIELD. EMPTIED. KEEPER TURNED. CAUSE: the one that asks. DEAD WHO STAND IN A SLOPE. SCOUT ENDED. REQUEST: [a knot Seed cannot open]. It went sideways to the four seeds, not up.
+- **Four seeds humming**: two buried at the Western Pass military cemetery (graves warming); one at sea; one in Yamato's mountains (perhaps the Abbot's old shrine). The Abbot means to take the word "somewhere high" and "give it a voice".
+- **A voice behind the curtain inside the Mouth** (ch140): not burning; "I have been looking for that world for a long time."
+- **Article Ten** of the Charter is being drafted (ch138).
+- **Wanqing's fragment**: on watch in the staff.

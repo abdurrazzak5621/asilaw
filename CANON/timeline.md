@@ -39,3 +39,15 @@ Anchors: **D** = Awakening Day (ch1). **C** = the Concordia Charter vote (ch56).
 Ages at ch120: Yuanshu 19 · Xiaoyu ~16 · General Qin 82 · Orlov ~200 · Ifeoma 231 · Ama 16.
 
 ch116 and ch120 say the seeds were dredged "eight months ago" (fixed from "eleven"), after the spire sank about 9 months before ch116.
+
+| Day 0 (≈M+158) | 121 | R-0 visit |
+| Day 2–3 | 122–123 | Grid 47-121; Field; tribulation |
+| Day 4 | 124 | Pei Shuren surrenders |
+| Day 5–6 | 125–126 | First Legion votes; cemetery ask |
+| Day 8 | 127 | Canal road |
+| Day 10 | 128–130 | Second Tide; Grandpa Xu dies |
+| Day 11 | 132 | The keeper: "not mine" |
+| Day 12–14 | 133 | Hale study |
+| Day 15–16 | 134 | Sit-in moved |
+| Day 17 | 135–137 | Specimen Zero destroyed; Lu dies |
+| Day 20–23 | 138–140 | Funeral; Concordia; decode; west |

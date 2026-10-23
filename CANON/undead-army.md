@@ -28,3 +28,15 @@ All serve by consent. **Article Seven: the dead may defend, never conquer** (ch4
 - Commanders can refuse and argue (ch89 refusal; ch110 Huo's request).
 - Dead are invisible to threads but are kindling to Hungers (ch57, 83). Embers can be **banked** (ch95, 106).
 - Intent-sharing across lines (ch20). Not used since.
+
+## Changes ch121–140
+
+| Unit | Count | Commander | Notes |
+| --- | --- | --- | --- |
+| First Legion ("the Wall") | 17,964 | Old Seven; second Captain Ma Lianhua (held the river gate, Black Tide) | 341 old soldiers as sergeants; Wei Desheng (postman, maps the city); Song Yanyan (bride, runner). Holds Lingzhou under Ma Lianhua while Yuanshu is west |
+| Outer-wall companies | 1,138 | — | Said no to fighting inside the city; hold the outer face of the wall, facing out, never moved inside |
+| Cemetery companies | 6,214 YES (1,902 only to speak, 31,884 quiet) | Adjutant Xu | War Memorial Cemetery, asked properly in ch126 |
+| Spear Corps | 300 | Old Seven | The first 300 of ch3; lay back down after ch3; stood again ch126; with Yuanshu going west |
+| **Adjutant Xu** (Grandpa Xu Dehai) | 1 | Law Core: The Ninefold Relay (Sound Law 11% + Death) | Died ch130 at stone No. 7; the knot at the top of the Asking Lattice; carries a wooden cane |
+
+Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisible to the scout's reading (ch133–137).
