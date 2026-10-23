@@ -47,3 +47,12 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - **A voice behind the curtain inside the Mouth** (ch140): not burning; "I have been looking for that world for a long time."
 - **Article Ten** of the Charter is being drafted (ch138).
 - **Wanqing's fragment**: on watch in the staff.
+
+## Open after ch151
+
+- **The curtain voice** (ch140, 151): inside the quiet part of the Mouth, not burning. Asked Hush whether the world that asks still asks; asked the men *what do you want*; took Liang Fu "home" behind the curtain. Seed's guesses (marked as guesses): the gardener's, the gardener, or something the gardener fears. Every one of the 61 knows the way back to Blue Star.
+- **The sea seed** (ch150–151): on a flagless, nameless cargo hauler that reached Port Abiri six days early, anchored over the sunken spire, and is lowering the seed back to "its mother". Something below hums back.
+- **The Yamato seed**: Ren going home to the Abbot's old shrine; Lingyue will join her after Port Abiri (ch150).
+- **The Architects' return**: they promised to come back to the Port Abiri hill a year after ch112, about five months after ch150. The fisherman's widow climbs the hill every morning.
+- **The gray-cardigan man** who brought Colonel Qin tea (ch141): unexplained.
+- Article Ten adopted 5–0 (ch150). The scout's REQUEST knot is still unread.

@@ -40,3 +40,13 @@ All serve by consent. **Article Seven: the dead may defend, never conquer** (ch4
 | **Adjutant Xu** (Grandpa Xu Dehai) | 1 | Law Core: The Ninefold Relay (Sound Law 11% + Death) | Died ch130 at stone No. 7; the knot at the top of the Asking Lattice; carries a wooden cane |
 
 Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisible to the scout's reading (ch133–137).
+
+## Changes ch141–151
+
+| Unit | Count | Commander | Notes |
+| --- | --- | --- | --- |
+| Western Pass burning (ch141–148) | 41,306 graves | — | Seeds' roots burned the graves for 11 days, then 9 blind days after the Banked Field. **Gone**: 2,113 Quiet, 11 YES (row eighty), 340 ONLY TO SPEAK. Re-ask (ch145): 30,614 yes, 1,420 only to speak, 1,046 newly quiet |
+| **Western Legion** (ch149) | 25,695 stay | **Sergeant Ma Dashan** (Fourth Company; miner; Law Core The Inner Gate) | Holds the Western Pass "for the pass, not for you". 4,107 lay down to rest (ask again in a year); 812 spoke and rested. Load 9%. On the Article Seven Commission register (ch150) |
+| Spear Corps | 300 | Old Seven | With Yuanshu, going south to Port Abiri (ch151) |
+| Adjutant Xu | 1 | — | Goes where Old Seven goes; with Yuanshu |
+| **Third Battalion inside the Mouth** | 62 → **61** | Huo Changsheng | **Corporal Liang Fu** answered the curtain voice ("to go home"; "then show me the way") and went behind the curtain; did not come back (Day 209, ch151). Huo now stands on the curtain himself with the five, by their consent |

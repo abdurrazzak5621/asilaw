@@ -51,3 +51,8 @@ ch116 and ch120 say the seeds were dredged "eight months ago" (fixed from "eleve
 | Day 15–16 | 134 | Sit-in moved |
 | Day 17 | 135–137 | Specimen Zero destroyed; Lu dies |
 | Day 20–23 | 138–140 | Funeral; Concordia; decode; west |
+
+| Day ~25–48 | 141–148 | Western Pass: seeds, Banked Field, the spire falls, Zhuo dies |
+| Day ~50 | 149 | Western Legion formed |
+| Day ~61 (M+~209) | 150 | Concordia: Article Ten adopted 5–0 ("eleven days" after Zhuo's death) |
+| M+209–211 | 151 | Hush's Day 209 message (Liang Fu taken); Ifeoma's boat reaches Port Abiri; the hauler is already there |

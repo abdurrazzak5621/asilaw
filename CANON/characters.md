@@ -80,3 +80,17 @@
 | Kurose Tōya ("the Abbot") | Former tender of the Sleepers; leads the Hollow Gods; broadcasts from an unknown place |
 | Fang Lili | A Hollow God at the sit-in |
 | Wanqing | Says the fragment in the staff is "on watch" |
+
+## Changes ch141–151
+
+| Name | Status |
+| --- | --- |
+| Major Zhuo Wenli | **Died** (ch147) inside the second spire after refusing twice to come out; his ember went up to the keeper, which keeps him and asks him every day (ch147–148) |
+| General Qin Zhenyue | Claimed the order in a letter to Concordia; Yuanshu took it back (ch150). Asked Yuanshu to come back |
+| Qin Hao | **Lord** (ch147), first of his Academy year; white fire that burns threads |
+| Sergeant Ma Dashan | Undead commander of the Western Legion; Law Core The Inner Gate |
+| Elias Brandt | New Atlantic Federation Secretary (after Lowell); careful; reading glasses on and off |
+| Fang Lili | Wrote to the Atlantic Secretary: "he sat on the ground and said it himself" (ch150) |
+| Ifeoma Adeyemi | Took Yuanshu south by sea in her dead husband's white fishing boat (ch151) |
+| Lingyue | Going with Ren to Yamato after Port Abiri; Yuanshu owes her a spar (ch150) |
+| Corporal Liang Fu | Third Battalion; bad right knee; taught Hush a card game with no queens; taken behind the curtain (ch151) |

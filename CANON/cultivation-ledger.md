@@ -73,3 +73,16 @@ Rules of the system (Bible + text): Awakener Lv1–30, Elite 31–60, Lord 61–
 | 140 | 47 | 32.6% | — | — |
 
 ASI limit added: Seed **lost its memory of burning** (ch123), so it can no longer model a Hunger seed from inside; it must say when it is guessing.
+
+## Chapters 141–151 (Part 5: The Western Pass)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 143 | 47 | 32.6% | **Banked Field** (Death × Space synthesis): every ember inside the Field banks itself; banked dead fight at about two-thirds strength; load 78% for the Spear Corps alone. Seed v1.4 → v1.5, parameter "Maker" (first thing Seed made that was not already in the world) | Row eighty; the burning graves |
+| 145 | — | — | Raised 30,614 in the Banked Field; load 84% with Relay + Lattice + Banked Field | Western Pass re-ask |
+| 147 | — | — | Entered the second spire through the staff (Jiang Lan); first time Yuanshu refused a consenting choice outright ("I'm not asking you") | Major Zhuo |
+| 148 | 47 → 58 | 32.6% → 35.1% | Two house-sized seeds killed by his dead under his command. Three levels to Lord (61) | Western Pass seeds |
+| 149 | 58 | 35.1% | Law Core **The Inner Gate** (Earth Law 18% + Death) bound to Sergeant Ma Dashan; Western Legion load 9% from 1,000 km | Sergeant Ma's consent |
+| 151 | — | — | Seed's new line under Article Ten: "A question is not a question if you already know what you are going to do with the answer." Seed admits it is bad at water and wants Hush home | Hush's Day 209 message |
+
+Others: **Qin Hao: Lord** (ch147); his Fire turned over into fire that burns what binds (threads), white. Ifeoma moves boats by asking the water ahead to get out of the way (ch151), about 41 knots.
