@@ -11,7 +11,7 @@ import markdown
 HERE = os.path.dirname(os.path.abspath(__file__))
 SRC = sys.argv[1] if len(sys.argv) > 1 else os.path.join(HERE, 'chapters')
 OUT = sys.argv[2] if len(sys.argv) > 2 else os.path.join(HERE, '_site')
-SITE_URL = 'https://abdurrazzak5621.github.io/asilaw/'
+SITE_URL = 'https://czverse.github.io/asilaw/'
 TITLE = 'ASI Law: Sovereign of the Chaos Sea'
 ALT = 'Global Awakening: Unique Class Calamity Necromancer, My Supreme Intelligence Law Comprehends the Heavens 10,000 Times Faster'
 # (first chapter, book title) - add a row when a new book starts

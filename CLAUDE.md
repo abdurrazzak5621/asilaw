@@ -1,6 +1,6 @@
 # ASI Law: Sovereign of the Chaos Sea — project instructions
 
-Web novel by czverse, co-written with Claude. Site: https://abdurrazzak5621.github.io/asilaw/ (GitHub Pages from `docs/`).
+Web novel by czverse, co-written with Claude. Site: https://czverse.github.io/asilaw/ (GitHub Pages from `docs/`).
 
 ## Files
 

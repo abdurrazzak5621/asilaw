@@ -1,6 +1,6 @@
 # ASI Law: Sovereign of the Chaos Sea
 
-An original web novel by **czverse**. Read it free at **https://abdurrazzak5621.github.io/asilaw/**
+An original web novel by **czverse**. Read it free at **https://czverse.github.io/asilaw/**
 
 *Global Awakening: Unique Class Calamity Necromancer, My Supreme Intelligence Law Comprehends the Heavens 1000x Faster*
 
