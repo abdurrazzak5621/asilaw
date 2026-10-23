@@ -85,3 +85,12 @@ Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisibl
 | First Legion | 17,964 → **17,553** | 411 unwoven when six knots came undone (ch193) |
 | Western Legion | 25,695 | All said yes to the voyage (ch197); 1,000 of the 4,107 who rested re-stood to hold the pass |
 | **Voyage (ch200)** | ~50,231 dead + 175 kept columns from the keeper's field | Western Legion, First Legion, cemetery companies, 40 of the Watch, Spear Corps 272, Grid Nine 40, Old Seven, Adjutant Xu |
+
+## Changes ch201–210
+
+| Unit | Count | Notes |
+| --- | --- | --- |
+| Western Legion | 25,695 → **25,679** | 16 drained by gleaners (ch203); names said nightly by Sgt Ma. Home to the Western Pass (ch209) |
+| Other gleaner losses | 31 total at the rim in the first wave (ch203) | — |
+| **Third Battalion** | Huo + 59 (**60**) | **Stayed at the curtain** in the cold Mouth telling the last of the walls the door was open (ch207). Shiomi: "WE SEE THE SIXTY... WE WILL WAIT WITH THEM" (ch210) |
+| **Corporal Liang Fu** | 1 | Sent home by Huo; at **Shuanghe** (two rivers, 40 km south of Heishui), working his old ferry for free for the sad; his niece asks him monthly (ch210) |

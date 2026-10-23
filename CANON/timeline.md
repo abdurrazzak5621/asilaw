@@ -72,3 +72,8 @@ ch116 and ch120 say the seeds were dredged "eight months ago" (fixed from "eleve
 | ~Day 210–222 | 188–193 | Eleven walkers; nine days of preparation; the night of the wave |
 | Hush Day 398 / Day 429 | 196–199 | The Mouth stopped; the fires are out |
 | Dawn after Day 429 | 200 | Departure: six gold roads. **End of Book 2** |
+
+| B3 nights 1–11 | 201–204 | The Island; third field pruned (night 3); gleaners (night 9); the Mouth (night 11) |
+| +12 h / +19 h | 205–207 | The ask (9ⁿ); the door; the eyes burn ~31 h |
+| return 11 nights | 208–209 | The eyes go out (night 2); home at dawn |
+| spring | 210 | Shuanghe. **End of Book 3, Part 1** |

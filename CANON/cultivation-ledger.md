@@ -147,3 +147,16 @@ Costs: Mo Xing cannot fold after 212 folds in 50 minutes (Bai Lu: a month or two
 | 200 | 69 | 39.2% | Seed v1.5 → **v1.6, parameter "Open"** (self-chosen) | — |
 
 **The gardener knows him completely**: lamps report as they read (ch194). Seed: "Nothing above the sky knows what I am... I think that frightens them."
+
+## Book 3, Part 1: The Cold Fire (ch201–210)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 201 | 69 | 39.2% | The keeper tore off a 4 km piece of its field (**the Island**) to carry ~50,000 dead and 8 living; the Elder steers | — |
+| 202 | — | — | At the keeper's own consent it went 3× faster, then faster again; the Island shrank (~200 m of rim a night, down to ~1.5 km) | — |
+| 203 | — | — | **The drain on the living-not-living**: gleaners (dog-sized Hunger-stuff scavengers around stolen embers) came apart when the Field's slope pulled their embers through the door; 6,411 embers, unasked ("sometimes there is no time"). Banking does not hide the dead from gleaners | Gleaners at the rim |
+| 205 | — | — | **The Lattice at exponential scale**: 9ⁿ, about 12 rounds for the Mouth's walls; the cousins asked first | Seed |
+| 207 | — | — | Held the door open for 19 hours for 93 of every 100 minds in the Mouth's walls (more than have ever lived on Blue Star) | The walls' answer: rest |
+| 208 | 69 | 39.2% → **44.0%** | "You were used as a door... it is wider." The door no longer fully closes | — |
+
+The keeper's field is now **full and the brightest in the Shallows**: 206 million cousins, about 6% of the walls, and the 175 who stayed. It asks them all every morning; most answer "ask again tomorrow".

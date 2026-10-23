@@ -88,3 +88,11 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - **The Collector** keeps wants; it took Liang Fu's and the Architects'.
 - 1,104 hollows in Yamato, 212 Heishui, 34 Lingzhou; some are coming back.
 - Qin Hao's white fire; Mo Xing's folds are back.
+
+## Open after ch210 (Book 3, Part 1)
+
+- **The reader/gardener** is sitting still at the Mouth. Will it resume pruning toward the now-brightest field, the keeper's?
+- **The Third Battalion** stands at the cold fire; **Shiomi** says it will wait with them (the Shiomi people are a year or more out).
+- **Seed's nature**: "made of what they used to make" (Collector); walkers and the reader hesitate on it.
+- **The wider door**: Death Law 44%, and the door does not fully close.
+- Hush wants to stop playing statue.

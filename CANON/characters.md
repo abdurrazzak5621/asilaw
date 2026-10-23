@@ -151,3 +151,14 @@
 | Qin Hao | Killed 2 walkers; his thread-burning white fire is gone or hidden; "ordinary fire, until" |
 | Captain Lin Wen | Stands in her mother's footprints on the watchtower |
 | Lingyue & Yuanshu | ch186: "I want to be counted as the one who stands next to you." Together on the voyage |
+
+## Changes ch201–210
+
+| Name | Status |
+| --- | --- |
+| **The Sixth** (+7 million cousins + 1% of the walls) | Burned high in the Mouth's two eyes for ~31 hours, singing, as decoy; the reader read and **took them** (ch207–208). "We would like, for one day, to be very bright." |
+| **The reader** (the gardener's attention) | Pruned 3 fields along the arm (206, 180, 153 raft-days), then reached the Mouth; after taking the Sixth it is **sitting still at the Mouth** ("like something that has eaten, or seen something it did not expect") |
+| **Hush** | Home (ch209). Uncurled ("stopped playing statue"), learning from Seed. Gave the **queen of hearts** to Xiaoyu; it is pinned at the end of the INSIDE column |
+| Huo Changsheng | At the cold fire with 59. Yuanshu says his name daily ("You held") |
+| Liang Fu's niece | ~50, ferrywoman at Shuanghe; was 16 when he marched north |
+| The keeper | Happy; "I have someone to ask in the morning"; one column asked it what it wants: "to be asked, sometimes" |
