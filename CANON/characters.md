@@ -94,3 +94,16 @@
 | Ifeoma Adeyemi | Took Yuanshu south by sea in her dead husband's white fishing boat (ch151) |
 | Lingyue | Going with Ren to Yamato after Port Abiri; Yuanshu owes her a spar (ch150) |
 | Corporal Liang Fu | Third Battalion; bad right knee; taught Hush a card game with no queens; taken behind the curtain (ch151) |
+
+## Changes ch152–163
+
+| Name | Status |
+| --- | --- |
+| **Ifeoma Adeyemi** | **Died** ch159 at the end of the Sandu jetty, after holding the Sandu upwelling ~9 hours and lifting the seed on a column of water; held it after death. ONLY TO SPEAK (ch160): sunk in her husband's white boat off the point at Port Abiri, beside Emeka. The Southern Compact has no Tide King |
+| Hendrik Maas | Master of the *Patience* (ex-Deepwater Recovery 4); Hollow God; returned the sea seed; wife (Hearth One nurse) died; chose to drive an evacuation bus instead (ch155) |
+| Akosua Mensah | Kojo's widow, 53; refused to evacuate (not in anyone's window, so not moved); will make the Architects say it for two hours, "one for me and one for her" |
+| Adaobi | Ifeoma's secretary of sixty years; her household of 41 argues over the palace |
+| Shirasagi Ren | At the Abbot's old shrine in Yamato; seed under the old Sleepers' hall; the Abbot sits on the steps with 3,000+ Hollow Gods on the terraces |
+| Lingyue | Flew to Yamato (ch161) with the Mo twins; carries Adaobi's note "DON'T BE SOFT, GIRL" |
+| Zhou Wanqing's fragment | Stood in front of Seed when the tribulation looked inside the staff; **off watch**, resting (ch163). Wanqing woke and said "she's off watch... tell him I'm proud of him" |
+| Bai Lu, Hu Dabao | With Yuanshu on the frigate *Adeyemi* to Yamato |

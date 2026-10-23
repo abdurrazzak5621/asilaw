@@ -56,3 +56,9 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - **The Architects' return**: they promised to come back to the Port Abiri hill a year after ch112, about five months after ch150. The fisherman's widow climbs the hill every morning.
 - **The gray-cardigan man** who brought Colonel Qin tea (ch141): unexplained.
 - Article Ten adopted 5–0 (ch150). The scout's REQUEST knot is still unread.
+
+## Open after ch163
+
+- **The Yamato seed**, under the old Sleepers' hall at the Abbot's shrine. The Abbot waits on the steps "for you". Ren: "he isn't the only thing on this mountain that's waiting."
+- The Southern Compact needs a new Tide King. The sea is "lazy" without one, for now.
+- The curtain voice and Liang Fu (ch151) are unchanged.

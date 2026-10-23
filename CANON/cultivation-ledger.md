@@ -86,3 +86,20 @@ ASI limit added: Seed **lost its memory of burning** (ch123), so it can no longe
 | 151 | — | — | Seed's new line under Article Ten: "A question is not a question if you already know what you are going to do with the answer." Seed admits it is bad at water and wants Hush home | Hush's Day 209 message |
 
 Others: **Qin Hao: Lord** (ch147); his Fire turned over into fire that burns what binds (threads), white. Ifeoma moves boats by asking the water ahead to get out of the way (ch151), about 41 knots.
+
+## Chapters 152–163 (Part 6: The Tide, first half)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 153 | 58 | 35.1% | Seed's first water model: the trunks ride the dawn upwelling ("rock has to be broken, water has to be persuaded"; least effort). Its rock model failed by carrying a mountain lesson to the sea (same error as ch14) | Ifeoma: "water is lazy" |
+| 154 | — | — | **The pipe**: Ifeoma holds a 1 m column of still water 3 km down; Adjutant Xu's Relay note carries the question; Seed gives Ifeoma the *shape* of the water column, not numbers | Asking the drowned |
+| 157 | — | — | Pale fire dropped into the hollow throat of a trunk runs down inside it to the seed | Port Abiri |
+| 158 | — | — | **The Lattice works dead-to-dead at depth**: one blurred note from the surface means "now", and the drowned ask each other. Pale fire runs down a held root to the seed (twelve volunteers burned) | Kesse |
+| 159 | — | — | "Ask the water in front of the boat": Ifeoma pulls the Sandu seed out of its heap on a column of water instead of holding the sea down; Old Seven's one-finger throw into a 0.4 s seam (Mo Shi's timing) | Sandu |
+| 160 | 58 → 61 | — | Three trunks + the sea seed, by his dead | — |
+| 162 | — | — | Tribulation weight scales with what is bound to you (Bureau files: 2,011 Lord breakthroughs, 11 necromancer Lords). Asked all 52,461 bound dead to take a share: 40,108 yes, 12,353 no (released for the night) | Grandpa Xu: "in a net, nobody holds it all" |
+| 163 | **61, Lord** | 35.1% → 36.4% | Field 5.1 → **9.8 km**. Lords fly (to come down: "do less"). Seed hid behind Wanqing's fragment, spoke only three times. 47 dead went out carrying the sky. Insight: carrying is not holding | Lord realm tribulation at sea, ~23:14–23:51 |
+
+**Lingyue's own technique (ch157): "Light Runs Downhill."** Inside the Field her pale fire gains weight; she drops it instead of shining it, so it falls through 3 km of water (or down a trunk's throat) to whatever edge is waiting. Seed recorded it under her name, not as its own.
+
+ASI limits confirmed: Seed is bad at water and slow to model it; it cannot model burning from inside (still); it counted Ifeoma as a tool ("a pipe") and missed her own solution; it modeled the three trunks as separate when they were one sea (ch158).

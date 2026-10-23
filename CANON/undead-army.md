@@ -50,3 +50,13 @@ Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisibl
 | Spear Corps | 300 | Old Seven | With Yuanshu, going south to Port Abiri (ch151) |
 | Adjutant Xu | 1 | — | Goes where Old Seven goes; with Yuanshu |
 | **Third Battalion inside the Mouth** | 62 → **61** | Huo Changsheng | **Corporal Liang Fu** answered the curtain voice ("to go home"; "then show me the way") and went behind the curtain; did not come back (Day 209, ch151). Huo now stands on the curtain himself with the five, by their consent |
+
+## Changes ch152–163
+
+| Unit | Count | Commander | Notes |
+| --- | --- | --- | --- |
+| Port Abiri drowned (ch154) | 4,109 asked via the pipe: 2,846 yes, 603 only to speak, 660 quiet | Captain Efua Asante (ferry, 60 years ago) — **burned at Port Abiri** (ch157) | 104 burned at Port Abiri |
+| Kesse drowned (ch158) | 1,920 asked dead-to-dead: 1,406 yes, 312 quiet, 202 only to speak | — | **The twelve** who held roots and burned: Yaw; a northern engineer; three of a Kesse crew; a ferryman; a boy of 17; the bride and groom of the ferry wedding; and others |
+| Emeka (Ifeoma's husband) | 1 | — | Drowned 140 years ago off the point at Port Abiri; walked to Sandu; lay down beside Ifeoma's sunken white boat, quiet (ch160) |
+| **Watch of the Shelf** (ch161) | 1,146 stay (3,002 rested) | **Nana Ampofo**, harbor pilot from Kesse, no Law Core; asks them monthly | On the Article Seven register; first unit whose dead elected their own officer |
+| Lord tribulation (ch162–163) | 52,461 bound; 40,108 took a share; **47 went out** | — | Oldest: a cemetery-company soldier who died at 68 in the Black Tide; youngest: a drowned boy of 11 from Sandu |

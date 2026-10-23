@@ -56,3 +56,11 @@ ch116 and ch120 say the seeds were dredged "eight months ago" (fixed from "eleve
 | Day ~50 | 149 | Western Legion formed |
 | Day ~61 | 150 | Concordia: Article Ten adopted 5–0 ("eleven days" after Zhuo's death) |
 | Day ~62–64 | 151 | Hush's Day 209 message (Liang Fu taken); Ifeoma's boat reaches Port Abiri; the hauler is already there |
+
+| Day ~64 (arrival = P1) | 152–153 | The *Patience*; the drowned under the sand; water model |
+| P2 03:00–05:30 | 154 | The pipe; 4,109 asked |
+| P3 | 155–156 | Akosua; the Hollow Gods on the beach; Ifeoma leaves for Sandu at 02:00 P4 |
+| P4 | 157–159 | Port Abiri 06:19; Kesse 11:33; Sandu 15:41; Ifeoma dies |
+| P5 | 160 | The white boat; Level 61 available |
+| P8–P9 | 161 | Palace funeral; Ren's call; Lingyue flies to Yamato; frigate leaves |
+| P11 night | 162–163 | Lord tribulation at sea |
