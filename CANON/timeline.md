@@ -34,6 +34,7 @@ Anchors: **D** = Awakening Day (ch1). **C** = the Concordia Charter vote (ch56).
 | M+31…139 | 113 | Monthly INSIDE messages; Project Hearth announced on M+139 |
 | M+~150 | 115–117 | Port Halvard; Walter Ashby dies |
 | M+~152 | 119–120 | The sphere destroyed; Specimen Zero moves |
+| M+~158 | 121 | R-0 visit six nights after the sphere died; 19-day clock starts |
 
 Ages at ch120: Yuanshu 19 · Xiaoyu ~16 · General Qin 82 · Orlov ~200 · Ifeoma 231 · Ama 16.
 

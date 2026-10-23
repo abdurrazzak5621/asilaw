@@ -23,6 +23,7 @@
 | 100 | — | — | 27.5% → 28.4% | — | The first Hunger's furnace, asked |
 | 119 | — | — | — | Timing model: lunge recovery 0.9 s, door needs 1.5 s; Yuanshu moves early, loses 2+ memories | Hunger seed interior |
 | 120 | 32 → 33 | Elite | 28.4% → 29.6% | Field (30%) deliberately not crossed yet | The seed destroyed |
+| 121 | 33 | Elite | 29.6% | Decides to take the leap (Field and the backlog) away from the city, in the north; Seed does not know where it can hide from the tribulation | Specimen Zero's clock |
 
 Rules of the system (Bible + text): Awakener Lv1–30, Elite 31–60, Lord 61–99, King = planet level. Law tiers: Insight 1–10%, Intent 10–30%, Field 30–60%, Fragment 60–99%, Complete. Levels come from kills, including kills made by undead under his command (ch20).
 

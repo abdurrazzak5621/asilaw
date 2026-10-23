@@ -2,9 +2,9 @@
 
 ## Open [open]
 
-1. **Specimen Zero has moved and is looking up** after being fed a Hunger seed. Who fed it? The "night watch" contractor (ch120).
+1. **Specimen Zero has moved and is looking up** after being fed a Hunger seed. Who fed it? The "night watch" contractor (ch120). **ch121:** the seed is repairing the scout (chest wound closing, +40 kg); the arrays' power speeds it like a bellows; the scout still keeps the old 31h14m harvest pulse; Yuanshu's reading: it is healing **to report** to whatever sent it. Seed's estimate: wound closes in **19 ± 3 days**. Destroying it at current strength: ~half the runs succeed, most after the call gets out.
 2. **The gardener:** what is behind the faceless scouts and Mercer (ch48, 68).
-3. **Three untraced seeds** (offshore) and **the stolen Yamato seed** (ch116, 120).
+3. **Three untraced seeds** (offshore) and **the stolen Yamato seed** (ch116, 120). **ch121:** all four answered the Lingzhou seed's call for half a second: one at sea south of Concordia moving east; one high in cold mountains in Yamato; two together on land far to the west, not moving.
 4. **Wanqing's fragment in the staff:** what it wants, and whether it can wake again (ch118–120).
 5. **Inside the Mouth:** "Someone in the fire is answering" (ch110). Monthly reports (ch113).
 6. **The Chaos Lords** erased the 3,001st law, Intelligence (Bible; ch20 "it remembers why it erased it").
