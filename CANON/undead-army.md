@@ -1,0 +1,30 @@
+# Undead army roster (status at ch120)
+
+All serve by consent. **Article Seven: the dead may defend, never conquer** (ch47, 56). The 19,402 read the voyage into the Sea as crossing a border and refused it (ch89).
+
+## Commanders with Law Cores
+
+| Name | Core | Form | Status |
+| --- | --- | --- | --- |
+| Old Seven (Captain Qi Zhenshan) | Spear of the Eastern Line (Spear Intent ~21%), ch3 | Skeleton, 2.10 m; gray flame; Huo's left arm (ch88), now one finger and a thumb (ch119) | Active, with Yuanshu |
+| Iron Wall Zhao (Captain Zhao Gangfeng) | Gate of the North, ch14 | Skeleton; empty iron shield | **Quiet** (ch100). Standing in a stone gate on the hill above the cemetery, facing out (ch111) |
+| Hundred-Arrow Lin | The Hundred-and-First (Arrow Intent 24% + Death), ch15; anchored to the 101st arrowhead | Shade of ash; iron arrowhead heart | Active, home; beside Captain Lin Wen on the wall (ch106) |
+
+## Units
+
+| Unit | Origin | Count history | Now |
+| --- | --- | --- | --- |
+| Spear Corps (ch3) | Black Tide dead, War Memorial Cemetery | 1,204 willing; 300 raised | Not mentioned after early chapters [open] |
+| Beast skeletons | Bonefield Hollow (ch8, 49); Wastes (ch20, 200) | — | Not reused |
+| Fang Tiezhu (ch35) | Retired fire chief, Ledger YES | 1 | Lay down after Jinhua |
+| **Third Battalion** (Huo Changsheng, sergeant) | Lu Xuanming's march | 141 found → 88 YES, 53 laid down (ch63). 4 hauled scavengers home (ch65), 12 escorted Gu (ch70) → 72. 10 lost in the throat (ch97) → 62 | **62 (Huo + 61) inside the Mouth** with Hush (ch110). **10 quiet** kneeling around Zhao's gate (ch111). **16** on the north wall (ch111) |
+| **The 19,402 ("the Wall")** | Black Tide march, valley ask (ch70) | 19,402 YES; banked by Lin's training (ch106) | On Lingzhou's northern wall, about 19,000 (ch106, 110) |
+| **Western Pass reserve** | 41,306 graves; ask in ch47 | 31,882 YES, 1,209 ONLY TO SPEAK, 8,215 QUIET | **Never raised.** Waiting in their graves |
+| Kesse/Port Abiri dead | ch86 | 2,207 quiet, 412 stayed with the keeper, 392 spoke | With the keeper |
+
+## Doctrine established
+
+- Ask each one; witness recorded (ch3, 25, 63, Article Three).
+- Commanders can refuse and argue (ch89 refusal; ch110 Huo's request).
+- Dead are invisible to threads but are kindling to Hungers (ch57, 83). Embers can be **banked** (ch95, 106).
+- Intent-sharing across lines (ch20). Not used since.
