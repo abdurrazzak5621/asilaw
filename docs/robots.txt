@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdurrazzak5621.github.io/asilaw/sitemap.xml
