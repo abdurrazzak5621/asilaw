@@ -72,3 +72,10 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - **Article Eleven** drafted (a rule for the asker); to Concordia.
 - 1,104 hollows in Yamato; can any come back?
 - The Southern Compact has no Tide King.
+
+## Open after ch181
+
+- **The gardener knows.** A walker escaped with what it saw. "Perhaps it will hurry now."
+- **Shiomi's bell** from the deep water, every 412 s. Who rings it? Concordia: listen, do not shout; the 372 monks listen nightly (ch175).
+- The Mouth stops in ~10 months; the keeper will carry them if it is cold.
+- Article Eleven still before Concordia.

@@ -116,3 +116,17 @@ ASI limits confirmed: Seed is bad at water and slow to model it; it cannot model
 | 171 | — | — | Drafted **Article Eleven** (a rule for the asker) | — |
 
 Lingyue: told 1,612 people to their faces what "kept" means in six minutes (ch169); won the promised spar 3–0 (ch170).
+
+## Chapters 172–181 (Part 7: The Shallows, first half)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 172 | 61 | 36.4% | **Ranging**: Hush's message lags + read-out seconds (9 → 22 s) show the Mouth both receding and slowing; ruler = 41 voyage calls (Kwan's raft logs, Fat Tan's home logs). The echo runs along the keeper's attention (fast when it looks, slow when it does not). Mouth ≈ 38 raft-days, stopping ≈ 44 in ~11 months | Xiaoyu wrote the seconds down |
+| 174 | 61 → 62 | — | Lord-class rift-crawler killed by the First Legion inside the Field while he slept. **The Shallows**: through the keeper's eye, 11 other fields (9–206 raft-days), the visited worlds and the Mouth (39 raft-days) lie along one short stretch of one spiral arm. The Collector is from "the deep water". A signal repeating every 412 s | Kwan's idea |
+| 175 | — | — | The signal is the night bell of **Shiomi**, the village below the Yamato terraces, rung through the night of the cutting 1,200 years ago | The monks |
+| 177 | — | — | Three-lamp model: overlapping 0.62 s blind gaps leave a moving pocket (2–6 m, ~1.1 s); with two lamps 9–14 m, 3–5 s (Su Mingli's correction). Mo Shi calls, Mo Xing folds | Specimen Zero data |
+| 178 | — | — | **Lingyue: Lord (Level 61)**, unaided; she "stood on her own light". Su Mingli taught her to *hold* falling light (pebble → dummy → want) | Light realm tribulation, 12:41 |
+| 179–180 | — | — | Walkers are woven thread; every thread runs to a **knot behind the face**; Qin Hao's white fire unknots it. Lingyue throws light *uphill* across 1–1.5 km and lets it fall onto a lamp to hold its face down | The keeper's field |
+| 181 | 62 → 65 | 36.4% → 37.6% | Two walkers killed. "The Field works anywhere the dead can stand." Lingyue 61 → 63; Qin Hao 64 → 66 | — |
+
+Costs: Mo Xing cannot fold after 212 folds in 50 minutes (Bai Lu: a month or two, guessing). Seed was held straight up by a walker's beam for 2.3 s; it recognized what Seed is made of and hesitated.

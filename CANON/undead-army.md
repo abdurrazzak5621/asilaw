@@ -67,3 +67,11 @@ Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisibl
 | --- | --- | --- |
 | Monks under the gates (Yamato) | 406 (Ren's ask): 390 yes, 16 quiet; after (ch170) 372 keep listening, 18 rest | Not Yuanshu's; Ren asked them. They reclaimed the Sleepers' watching from the lens |
 | Third Battalion in the Mouth | 61 (Liang Fu back, hollow) | The curtain voice left on Day 230. The Sixth think the Mouth is dying; cold in a year or two (Day 241) |
+
+## Changes ch172–181
+
+| Unit | Count | Notes |
+| --- | --- | --- |
+| Field volunteers (ch176) | 551 of 52,000: Spear Corps 300, Grid Nine 40, cemetery companies 211 | First Legion, Western Legion and Watch said no (border / their posts) |
+| **Spear Corps** | 300 → **277** | **23 unwoven** (gone, nothing left to ask) by the lashing threads of a dying walker (ch180) |
+| The keeper's few who stayed | 412 → 381 (31 went home before) → **175 stay**, 206 quiet (ch181) | **Major Zhuo** went quiet at his own request, by Yuanshu's hand, beside his family's three rings |

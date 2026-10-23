@@ -121,3 +121,16 @@
 | Sister Ning / the Quiet | 40 → 200+ sitting with the 1,104 hollows on the mountain |
 | Corporal Liang Fu | Came back through the curtain on Hush's Day 231 hollow ("where is that"); Huo says his name daily |
 | Wanqing | "I'll do the next watch myself." Does not want the fragment back |
+
+## Changes ch172–181
+
+| Name | Status |
+| --- | --- |
+| The keeper | Agreed to carry them to the Mouth "if it is cold — ask again" (ch173). Revealed the Collector taught the Elder's people (in dreams) to make a keeper; hierarchy: Collector → gardeners → keepers → worlds. Asked Yuanshu for help (ch176); carried 558 up by a gold road and down again |
+| The Elder | "Someone taught us the shape. In dreams. For a hundred years before we said it." |
+| Walkers | 8–9 m, faceless, woven of silver-white thread, a lamp in the head; do not ask or speak; cannot see the dead; heal by re-knotting. **Two killed; one walked away to report** to the gardener (ch180) |
+| Lingyue | **Lord** (ch178), Level 63; her own sword broke (ch178); carries her grandfather's |
+| Qin Hao | Level 66; carries his notebook everywhere |
+| Su Mingli | Taught Lingyue; stayed to hold the city. "I'm tired of being the only one who's frightened." |
+| Mo Xing | Cannot fold (temporary?) |
+| Xiaoyu | Started the SHIOMI column; the INSIDE seconds were her idea |
