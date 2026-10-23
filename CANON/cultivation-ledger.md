@@ -173,3 +173,17 @@ The keeper's field is now **full and the brightest in the Shallows**: 206 millio
 | 222–223 | — | — | Knot 3 carried by Yuanshu holding a cutting thread; **the Elder** opened his hand and **went up the thread to become ring 3's yes** | — |
 
 Others: **Qin Hao's white fire returned at Kirovsk** (Level 70). Lingyue Level 66. Seed's floor has a quiet place where the 138 were.
+
+## Book 3, Part 2 (cont.): The Gardener (ch225–231)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 225 | 69 | 45.6% | Hush asks to "move first" in front of the gardener; Old Seven: "if the boy goes, I go" | — |
+| 226 | — | — | Married Lingyue; rings of walker-thread, carried by Hush. Seed asked to record it: "the first thing I have ever asked to keep" | — |
+| 227 | — | — | Kwan maps the gardener as a **tree**; pruned keepers hang on it; the reader was a branch tip growing toward light (kept minds) | — |
+| 228 | — | — | **Graft** recalled (ch88) as the answer: cut the tip, graft a scion that asks. The keeper gives **a third of its field** (71 M cousins + 4 M walls volunteered). The graft would be one-sided: "the door only lets things go; you have never put anything into anything without a yes" | — |
+| 229 | — | — | **Article Twelve** (from Wanqing: "I owe you the question"): decide once for what cannot yet answer; say aloud nobody said yes; put in only what was given; hold on to nothing; owe it the question every day. Concordia 4–1 (Sterling: "because it gets easy"); the living 63% yes | — |
+| 230 | — | — | **The Cut**: Lingyue lit as a decoy (the tip turned to her); Xu's cane relayed "now"; Yuanshu's pale fire down the Lattice to ~50,000 dead on the branch; Qin Hao's white fire unbound the pressing; Su Mingli held the tip; Orlov froze the branch to an ice pillar at Kirovsk. **Adjutant Xu tied off the Lattice's top knot** and was drunk by the tip | — |
+| 231 | 69 | 45.6% → 47.1% → **47.9%** | **Graft through Old Seven** (Yuanshu inside him, as in the ch16 reading, using Huo's arm): the scion let go first; it took. Hush put the question down; the callus closed; Old Seven carried Hush back. The fallen tip held **the Sixth** + 7 M cousins + 1% walls: asked, they chose to be dark; door opened; **Xu went through with them** | Graft; door |
+
+The branch is cut and grafted; a **gold bud** shines at its end (a new faint star). The keeper (a third smaller) and Yuanshu ask it every morning; no answer yet. The rest of the tree has stopped growing toward Blue Star (cause unknown).

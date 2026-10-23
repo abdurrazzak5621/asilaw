@@ -77,3 +77,8 @@ ch116 and ch120 say the seeds were dredged "eight months ago" (fixed from "eleve
 | +12 h / +19 h | 205–207 | The ask (9ⁿ); the door; the eyes burn ~31 h |
 | return 11 nights | 208–209 | The eyes go out (night 2); home at dawn |
 | spring | 210 | Shuanghe. **End of Book 3, Part 1** |
+| +~19 days (wedding) | 226 | Wedding at the War Memorial Cemetery; 41 days to the gardener |
+| +30 / +41 | 227–228 | The tree mapped; the graft planned; 19 days left |
+| +42–59 | 229 | Article Twelve; Concordia 4–1; world ask (11 days) |
+| night 19 | 230–231 | The Cut; the graft; Xu and the Sixth through the door |
+| +9 days | 231 | The gold bud. **End of Book 3, Part 2** |

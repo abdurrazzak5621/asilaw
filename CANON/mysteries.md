@@ -104,3 +104,6 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - 19,000 of Kirovsk's taken lost in the sand of ring 2.
 - Ring 1 is going home to its world. What will it find?
 - Xiaoyu turns 18 within the year (her awakening).
+- (ch231) The grafted branch's **gold bud**: asked every morning, no answer yet. Why did the rest of the tree stop turning toward Blue Star?
+- Who becomes the Lattice's new top knot after Xu?
+- The Collector planted the tree (Seed's guess, ch227) — still unconfirmed.

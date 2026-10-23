@@ -176,3 +176,17 @@
 | Hush | Warms itself in the sun; taught Seed to ask without holding on; thanked the Elder at the window |
 | Wanqing | Reads THE FLOOR every morning ("— Z.W.") |
 | The keeper | Speaks without the Elder now; laid a road to Kirovsk without asking (first time) |
+
+## Status at ch231
+
+| Name | Status |
+| --- | --- |
+| Lingyue | Burned as decoy (ch230); spent, recovering. Lost her red ribbon |
+| Su Mingli | Held the tip by gravity; spent |
+| Orlov | Froze the branch to an ice pillar at Kirovsk |
+| Roman Sterling | Voted no on Article Twelve ("because it gets easy"); his no is on the wall in red |
+| Ngozi Eze | Holds the Southern Compact's chair at Concordia (no Tide King) |
+| The Abbot | "If it was not asked, it should be told" |
+| Hush | Put the question down at the cut; carried back by Old Seven ("it is morning"); sits on stone No. 7 in the sun |
+| The keeper | A third smaller; asks the bud every morning at 3 |
+| Zhou Wanqing | "I decided... I'd owe you the question." Asked Seed's unasked thread what it wants; Seed: "I would like to have been made" |

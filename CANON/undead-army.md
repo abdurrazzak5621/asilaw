@@ -94,3 +94,11 @@ Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisibl
 | Other gleaner losses | 31 total at the rim in the first wave (ch203) | — |
 | **Third Battalion** | Huo + 59 (**60**) | **Stayed at the curtain** in the cold Mouth telling the last of the walls the door was open (ch207). Shiomi: "WE SEE THE SIXTY... WE WILL WAIT WITH THEM" (ch210) |
 | **Corporal Liang Fu** | 1 | Sent home by Huo; at **Shuanghe** (two rivers, 40 km south of Heishui), working his old ferry for free for the sad; his niece asks him monthly (ch210) |
+
+## ch230–231
+
+| Unit | Count | Note |
+| --- | --- | --- |
+| **Adjutant Xu Dehai** | **0** | Tied off the top knot of the Asking Lattice so the tip could drink no further than him (ch230); fell with the tip; went through the door after the Sixth (ch231). Grave next to stone No. 7; nineteen dumplings paid by Old Seven. **The Lattice needs a new top knot** |
+| Old Seven | 1 | Did the graft with Yuanshu inside him (Huo's arm on the cut); walked onto the closing callus and carried Hush back in his hand |
+| All dead units | as before | Climbed the keeper's gold roads to the branch and cut one thread each with pale fire (ch230); no other losses recorded |
