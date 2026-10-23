@@ -45,7 +45,7 @@
 
 | King | Nation | Law | Notes |
 | --- | --- | --- | --- |
-| Su Mingli | Huaxia | Gravity/space | Huaxia has nine Kings in total (ch1) [flag: ch89 "five Kings on Blue Star"] |
+| Su Mingli | Huaxia | Gravity/space | Huaxia has nine Kings in total (ch1); the Five are each nation's peak King (ch89 fixed) |
 | Marshal Kirill Orlov | Northern Union | Ice | About 200. Froze and broke the Northern Union seed (ch120) |
 | Shirasagi Ren | Yamato | Spirit | Youngest King in Yamato's history; seven empty cushions (Sleepers) |
 | Roman Sterling | Atlantic Federation | Force | — |

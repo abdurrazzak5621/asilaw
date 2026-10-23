@@ -1,4 +1,4 @@
-<p style="text-align:center;opacity:.75"><em>Global Awakening: Unique Class Calamity Necromancer, My Supreme Intelligence Law Comprehends the Heavens 1000x Faster</em><br>全民觉醒：唯一职业天灾死灵，我的至高智能法则万倍悟道</p>
+<p style="text-align:center;opacity:.75"><em>Global Awakening: Unique Class Calamity Necromancer, My Supreme Intelligence Law Comprehends the Heavens 10,000 Times Faster</em><br>全民觉醒：唯一职业天灾死灵，我的至高智能法则万倍悟道</p>
 
 ## The story
 

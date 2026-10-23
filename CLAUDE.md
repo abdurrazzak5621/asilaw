@@ -6,7 +6,7 @@ Web novel by czverse, co-written with Claude. Site: https://abdurrazzak5621.gith
 
 - `chapters/chNN.md` (ch01 … ch120): one chapter per file, first line `## Chapter N: Title`. **The manuscript is canon.**
 - `CANON/`: the verified ledger of what ch1–120 establish. Read the relevant files before writing; update them after.
-- `EDITORIAL/continuity-issues.md`: known contradictions. `EDITORIAL/apply_continuity_patch.py`: proposed fixes, **not applied** until the author approves.
+- `EDITORIAL/continuity-issues.md`: known contradictions. `EDITORIAL/apply_continuity_patch.py`: the continuity fixes applied on 2026-10-23 (kept for the record).
 - `EDITORIAL/style-guide.md`: tic budgets, voices, ASI and combat scene rules.
 - `bible.md`: the original pitch Bible (older than CANON; CANON wins where they differ).
 - `build_site.py`, `assets/`: site generator. `docs/` is generated output; never edit it by hand.

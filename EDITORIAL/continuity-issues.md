@@ -1,6 +1,6 @@
 # Canon and continuity issues, ch1–120 (verified October 2026)
 
-**I found 22 verified issues: 4 that affect the plot or cosmology, 9 number or name slips, and 9 minor ones.** Every item below was checked against the chapter text. Fixes are proposals; none has been applied. Word-level fixes are scripted in `apply_continuity_patch.py` (not applied; needs the author's OK).
+**I found 22 verified issues: 4 that affect the plot or cosmology, 9 number or name slips, and 9 minor ones.** Every item below was checked against the chapter text. **Status (2026-10-23): issues 2–13 are fixed in the chapters** (the script `apply_continuity_patch.py` plus the "sixty years" edits in ch46, 47, 62, 68, 85, 87). Issue 1 (Chaos Sea) awaits a decision; 14–22 are ledger notes.
 
 ### Must fix (plot or cosmology)
 

@@ -8,7 +8,7 @@
 | Northern Union | Orlov | Grid Nine; Sokolova |
 | Atlantic Federation | Roman Sterling | Secretaries: Voss (resigned ch60), Lowell (resigned ch120). Meridian Dynamics (board arrested). Office of Containment |
 | Yamato | Shirasagi Ren | The Sleepers (all quiet now) |
-| Southern Compact | Ifeoma Adeyemi | "Southern Coalition" in ch11 [flag] |
+| Southern Compact | Ifeoma Adeyemi | (ch11 fixed from "Southern Coalition") |
 
 ## Law
 

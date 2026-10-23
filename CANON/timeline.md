@@ -37,4 +37,4 @@ Anchors: **D** = Awakening Day (ch1). **C** = the Concordia Charter vote (ch56).
 
 Ages at ch120: Yuanshu 19 · Xiaoyu ~16 · General Qin 82 · Orlov ~200 · Ifeoma 231 · Ama 16.
 
-[flag] ch116 and ch120 say the seeds were dredged "eleven months ago"; by this table the spire sank about 9 months before ch116.
+ch116 and ch120 say the seeds were dredged "eight months ago" (fixed from "eleven"), after the spire sank about 9 months before ch116.
