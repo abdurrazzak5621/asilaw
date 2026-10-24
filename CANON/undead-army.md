@@ -102,3 +102,10 @@ Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisibl
 | **Adjutant Xu Dehai** | **0** | Tied off the top knot of the Asking Lattice so the tip could drink no further than him (ch230); fell with the tip; went through the door after the Sixth (ch231). Grave next to stone No. 7; nineteen dumplings paid by Old Seven. **The Lattice needs a new top knot** |
 | Old Seven | 1 | Did the graft with Yuanshu inside him (Huo's arm on the cut); walked onto the closing callus and carried Hush back in his hand |
 | All dead units | as before | Climbed the keeper's gold roads to the branch and cut one thread each with pale fire (ch230); no other losses recorded |
+
+## ch256
+
+| Unit | Count | Note |
+| --- | --- | --- |
+| **Watch of the Shelf** | **1,146: in the deep water** | Stayed by their own yes (asked by Yuanshu; answered in under a minute) to keep asking the unasked picked minds at the edge of the cloud; "we'll sing them to each other". Ask them again in a year. **Not on Blue Star** |
+| Third Battalion | Huo + 59 | Left the cold fire (ch253); carrying Callum home with Old Seven |
