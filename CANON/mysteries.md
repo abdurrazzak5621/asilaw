@@ -111,3 +111,5 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - What happens when a Stele with a yes in it sends nothing up?
 - (ch242) **The one who picks**: listens at the far end of the Stele threads; does not ask; is walking along the thread toward Blue Star, slowly. The Collector will be asked again "tomorrow".
 - Seed asks every morning "who was the first one?" and Yuanshu answers: Wen Jia.
+- (ch251) Who were "we", the Collector's people? Why did they stop? Where is the empty house? Whose was the first want ("home")?
+- (ch253) The cold fire is now empty; the Sixty are on the thread.
