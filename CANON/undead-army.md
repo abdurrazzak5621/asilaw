@@ -109,3 +109,10 @@ Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisibl
 | --- | --- | --- |
 | **Watch of the Shelf** | **1,146: in the deep water** | Stayed by their own yes (asked by Yuanshu; answered in under a minute) to keep asking the unasked picked minds at the edge of the cloud; "we'll sing them to each other". Ask them again in a year. **Not on Blue Star** |
 | Third Battalion | Huo + 59 | Left the cold fire (ch253); carrying Callum home with Old Seven |
+
+## ch280–281
+
+| Unit | Note |
+| --- | --- |
+| **Old Seven** | **Left arm (Huo's, one finger and a thumb) broken off by Severin** (ch280); stands one-armed. The arm lies at the foot of the platform |
+| Spear Corps, First Legion | Thrown back or moved aside by Severin (not destroyed) |
