@@ -121,3 +121,4 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - **The Collector (ch296)**: no longer says tomorrow; asked "Is he home?"; will listen to Wen Jia ask him; then will ask him (through Xiaoyu) whether he will come with it to the empty house, "soon".
 - **Death Law cap (ch295)**: stops just below 60% while he is a Lord. Old Seven's arm: ask at stone No. 7 when a year has passed since ch284.
 - Shiomi is still coming (the bell).
+- **(End of Book Four, ch298)** Yuanshu, Seed and Old Seven will go with the Collector to **the empty house**, past the deep water, along the threads without bodies; his body stays in Lingzhou and ages. Lingyue holds the lamp on the wall with Xiaodeng. Unknown: the distance, the way back, whose the first want was, who the Collector was before it kept. Obligations: ask the Watch again in a year (on time); Old Seven's arm at stone No. 7; Maelis's thirteenth (spring); the 16 fled Houses; the bud/gardener.
