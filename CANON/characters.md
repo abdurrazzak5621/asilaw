@@ -242,3 +242,5 @@
 | **Kael Teller** | Young Paragon (~100) of Teller; first Paragon to ask anyone what they want; keeps his face in a box |
 | **Ostrava Iron** | Paragon of the House of Iron; fought Severin; asked 11 times by Halvarde; "ask me tomorrow"; stood with Halvarde in the arrays all night |
 | **Aurelle Teller** | Speaker of the Assembly, 109 years as Speaker; asked to be asked "tomorrow" |
+
+- (ch296) **Xiaoyu is 18** (turned 18 during the Anthos voyage). Yuanshu has been awake three years (18 at ch1). Home after ~124 days away.
