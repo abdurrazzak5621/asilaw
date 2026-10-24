@@ -244,3 +244,4 @@
 | **Aurelle Teller** | Speaker of the Assembly, 109 years as Speaker; asked to be asked "tomorrow" |
 
 - (ch296) **Xiaoyu is 18** (turned 18 during the Anthos voyage). Yuanshu has been awake three years (18 at ch1). Home after ~124 days away.
+- (ch297) **Yuanshu: asked, "Old"** (Stele [Chosen]). **Lingyue: "Old with him"** [Chosen]. Wen Jia wanted to be old too ("fifty-one with him"). Children of Lingzhou come each morning to tell Wen Jia what they want to become.
