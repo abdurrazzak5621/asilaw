@@ -238,3 +238,7 @@
 | **Tam's grandmother** | Dead; the Corraine stone's yes; "I've got a lot of no's saved up" |
 | **Tam's mother** | Fisherwoman on Corraine; Chosen: "someone who says no when they come for the children" |
 | **Halvarde** | C, 60 years in the arrays; no longer wears her face; knows all 31,000 rowers by name |
+| **Dacian Severin** | **Died** (ch292) on the floor of the Lens chamber; **now the yes of the stone on Anthos**, asking every child; returned his face to the Lens |
+| **Kael Teller** | Young Paragon (~100) of Teller; first Paragon to ask anyone what they want; keeps his face in a box |
+| **Ostrava Iron** | Paragon of the House of Iron; fought Severin; asked 11 times by Halvarde; "ask me tomorrow"; stood with Halvarde in the arrays all night |
+| **Aurelle Teller** | Speaker of the Assembly, 109 years as Speaker; asked to be asked "tomorrow" |
