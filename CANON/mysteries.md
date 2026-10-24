@@ -116,5 +116,6 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - (End of Book 3) **The Collector** is still coming, slowly, to be asked; it wants to go to **the empty house** (its makers' home, past the deep water) and wants Yuanshu to come. Xiaoyu will ask him "tomorrow".
 - **The grafted branch's bud asks** ("what do you want?"). What will the gardener become?
 - Thousands of orchards in the deep water: their stones still mark and send, with nothing at the other end. The picker is stopped, hands open.
-- The Watch of the Shelf is in the deep water, asking the remaining released minds. Ask them again in a year.
+- The Watch of the Shelf is in the deep water, asking the remaining released minds. **Asked again ch295 (late)**: 743 stay with Nana; Yaw + 402 came home. Next ask: a year from ch295, **on time**.
+- **Death Law cap (ch295)**: stops just below 60% while he is a Lord. Old Seven's arm: ask at stone No. 7 when a year has passed since ch284.
 - Shiomi is still coming (the bell).

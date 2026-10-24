@@ -107,7 +107,7 @@ Doctrine added: the Asking Lattice (ch131); the drain (ch128); the dead invisibl
 
 | Unit | Count | Note |
 | --- | --- | --- |
-| **Watch of the Shelf** | **1,146: in the deep water** | Stayed by their own yes (asked by Yuanshu; answered in under a minute) to keep asking the unasked picked minds at the edge of the cloud; "we'll sing them to each other". Ask them again in a year. **Not on Blue Star** |
+| **Watch of the Shelf** | **743 in the deep water (ch295; 403 incl. Yaw came home to the sea off Kesse via the Lens and the Kesse stone)** | Stayed by their own yes (asked by Yuanshu; answered in under a minute) to keep asking the unasked picked minds at the edge of the cloud; "we'll sing them to each other". Ask them again in a year. **Not on Blue Star** |
 | Third Battalion | Huo + 59 | Left the cold fire (ch253); carrying Callum home with Old Seven |
 
 ## ch280–281
