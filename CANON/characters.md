@@ -231,3 +231,5 @@
 | **The Cantor** | High singer of the Hollow Bell (the Singers' world); chooses and sings up the tithe |
 | **Ninth** (Singer) | "The one who would have been sung up ninth"; first to come down; her own small light; first non-song note |
 | Seed | Has twice asked someone before asking Yuanshu (a Candle core, a chosen); promised to ask first, "even if it's one second" |
+| **The daughter** (born ch272) | Zhou family; 2.6 kg, 4 weeks early, born in the Awakening Hall; unnamed so far; Seed asks her every morning |
+| **The Old Chord** | The Cantor's teachers on the choir-ship; pushed the 897 down the thread; silent after |
