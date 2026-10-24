@@ -113,3 +113,8 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - Seed asks every morning "who was the first one?" and Yuanshu answers: Wen Jia.
 - (ch251) Who were "we", the Collector's people? Why did they stop? Where is the empty house? Whose was the first want ("home")?
 - (ch253) The cold fire is now empty; the Sixty are on the thread.
+- (End of Book 3) **The Collector** is still coming, slowly, to be asked; it wants to go to **the empty house** (its makers' home, past the deep water) and wants Yuanshu to come. Xiaoyu will ask him "tomorrow".
+- **The grafted branch's bud asks** ("what do you want?"). What will the gardener become?
+- Thousands of orchards in the deep water: their stones still mark and send, with nothing at the other end. The picker is stopped, hands open.
+- The Watch of the Shelf is in the deep water, asking the remaining released minds. Ask them again in a year.
+- Shiomi is still coming (the bell).
