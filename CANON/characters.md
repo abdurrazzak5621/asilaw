@@ -228,3 +228,6 @@
 | **Tam** | From Corraine (fuel orchard), F, 19 years in the wall; first off the road; Chosen: to hear the ones in the walls |
 | **The Candle's children** | 9,559 in Lingzhou; 12 in body; Gao Min keeps their ledger (no grades) |
 | Maelis | Will ask again in a year to sit in the Anthos stone |
+| **The Cantor** | High singer of the Hollow Bell (the Singers' world); chooses and sings up the tithe |
+| **Ninth** (Singer) | "The one who would have been sung up ninth"; first to come down; her own small light; first non-song note |
+| Seed | Has twice asked someone before asking Yuanshu (a Candle core, a chosen); promised to ask first, "even if it's one second" |
