@@ -28,3 +28,9 @@
 - **Northern Gate Remains Recovery** and the Night Market of Bones (ch13, 32).
 - **Eternal Rest Foundation** (ch29).
 - **Deepwater Recovery** (salvage, ch116).
+
+## The Star Sea (Book Four)
+
+- **The Federation of the Lamplit Worlds** ("the Lamplit"): human worlds with stones; **Grade Houses** (e.g. House Anthos); grades are part of the grammar; **fold-cores** made of F/E-graded people from "fuel orchards" (100-year terms, the "Fold Festival"). Fought the Reaper for 10,000 years; lost 412 worlds. Blue Star = Unlisted Orchard 4471, last marked 206 years ago.
+- **The Singers / the Tithe Throne**: sang their brightest up a thread each age; their tithe went unanswered; a ship is following the threads (a year or more).
+- **The quiet ones**: refugees in the deep water who hide by silence (Shiomi lived among them for 900 years).

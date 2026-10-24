@@ -222,3 +222,5 @@
 | **Shiomi** | 311 minds, home in the fog of the bay below the shrine |
 | **Lingyue** | **Pregnant** (~10 weeks at ch260; since before Port Halvard). Article Twelve: "you owe it the question" |
 | The Abbot | Sweeps all 1,203 gates daily; sweeps Kiyo's gate "more carefully" |
+| **Iselde Varr-Anthos** | SSS; 26; Listener-Captain of the folded ship *Eighth Candle*; was told her sister volunteered and could not hear |
+| **Maelis Varr-Anthos** | Fourth daughter of House Anthos; graded E; a fold-core for 11 years |
