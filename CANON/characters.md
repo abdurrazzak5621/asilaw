@@ -211,3 +211,14 @@
 | Hu Dabao | A-rank Shield Guardian; on the north wall |
 | **Liang Fu** (ch246–247) | Want returned; remembers Shuanghe, sister **Liang Mei** (died ~9 yrs ago; kept the ferry), niece **Zeng Yan** (~49). Still ferries the sad for free. On the queen: "they want to be able to lose" |
 | **Callum Ward's mother** | At the front of the Port Halvard holders: "I'd like it to see my face" |
+
+## Book Four
+
+| Name | Status |
+| --- | --- |
+| **Sister Kiyo** | Raised (ch259); carries Lingyue's light as the lamp of Shiomi; on the breakwater at Shiomi bay |
+| **Ichiro** | Home (as a mind in the fog of Shiomi bay); talks all night; met the Watch at the edge of the cloud |
+| **The headman of Shiomi** | His slow bell told the village to be quiet 900 years ago; forgave the keeper "for one night" |
+| **Shiomi** | 311 minds, home in the fog of the bay below the shrine |
+| **Lingyue** | **Pregnant** (~10 weeks at ch260; since before Port Halvard). Article Twelve: "you owe it the question" |
+| The Abbot | Sweeps all 1,203 gates daily; sweeps Kiyo's gate "more carefully" |
