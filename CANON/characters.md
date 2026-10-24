@@ -224,3 +224,7 @@
 | The Abbot | Sweeps all 1,203 gates daily; sweeps Kiyo's gate "more carefully" |
 | **Iselde Varr-Anthos** | SSS; 26; Listener-Captain of the folded ship *Eighth Candle*; was told her sister volunteered and could not hear |
 | **Maelis Varr-Anthos** | Fourth daughter of House Anthos; graded E; a fold-core for 11 years |
+| **Torvin** | Engineer, C, 30 years in the Candle's arrays; built 60 cradles; "I've wanted to do it for thirty years" |
+| **Tam** | From Corraine (fuel orchard), F, 19 years in the wall; first off the road; Chosen: to hear the ones in the walls |
+| **The Candle's children** | 9,559 in Lingzhou; 12 in body; Gao Min keeps their ledger (no grades) |
+| Maelis | Will ask again in a year to sit in the Anthos stone |
