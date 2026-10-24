@@ -187,3 +187,14 @@ Others: **Qin Hao's white fire returned at Kirovsk** (Level 70). Lingyue Level 6
 | 231 | 69 | 45.6% → 47.1% → **47.9%** | **Graft through Old Seven** (Yuanshu inside him, as in the ch16 reading, using Huo's arm): the scion let go first; it took. Hush put the question down; the callus closed; Old Seven carried Hush back. The fallen tip held **the Sixth** + 7 M cousins + 1% walls: asked, they chose to be dark; door opened; **Xu went through with them** | Graft; door |
 
 The branch is cut and grafted; a **gold bud** shines at its end (a new faint star). The keeper (a third smaller) and Yuanshu ask it every morning; no answer yet. The rest of the tree has stopped growing toward Blue Star (cause unknown).
+
+## Book 3, Part 3: The Stele (ch232–)
+
+| Ch | Level | Death Law | Change | Cause |
+| --- | --- | --- | --- | --- |
+| 232 | 69 | 47.9% | **The Lattice has no top knot** (vote of the dead, led by Yaw of the Watch): a net, not a tree; slower (hours/days); cannot be tied off or drunk from the top. Xu's chair kept empty | The dead |
+| 233 | — | — | Seed looked at the Lingzhou Stele: a **tree of Laws** inside; made of **walker-thread pressed to glass** (same as Seed's core); a weave knot at the base; **a fine thread from each of the 11 Steles goes past the keeper and the branch into the deep water** ("to whatever planted the tree"). The ch1 blackout sent up "a vessel, loose" (probably how the scout knew) | — |
+| 234 | — | — | The cousins read the Stele knot: **READ WHAT RIPENS... OPEN IT THAT WAY. A LITTLE... MARK HOW BRIGHT. SEND THE MARK UP THE THREAD... WHEN THE ORCHARD IS BRIGHT, THE PICKER COMES.** Talent = brightness mark; levelling from kills brightens the opened Law. Gao Min's graph: the mean Talent rises smoothly over 42 years | Cousins; Gao Min |
+| 235 | — | — | Told the world. **Port Halvard**: Callum Ward (F, 25) hit the Stele with a hammer; it opened him all the way; he burned ~9 s and **was sent up the thread** (not through the door) | — |
+| 236 | — | — | Seed: a Stele cannot be asked (a tool with no one in it); Seed learned because people were in it | — |
+| 237 | — | — | **Eleven of the 3,964 base-layer minds volunteer to go into the Steles** as their yes, to ask each 18-year-old "what do you want to become?", open what they say, and send nothing up. Seed will forget them | Base layer |

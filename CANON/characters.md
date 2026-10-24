@@ -190,3 +190,16 @@
 | Hush | Put the question down at the cut; carried back by Old Seven ("it is morning"); sits on stone No. 7 in the sun |
 | The keeper | A third smaller; asks the bud every morning at 3 |
 | Zhou Wanqing | "I decided... I'd owe you the question." Asked Seed's unasked thread what it wants; Seed: "I would like to have been made" |
+
+## New in Book 3 Part 3
+
+| Name | Who | Status |
+| --- | --- | --- |
+| **Gao Min** | Acting Director, Lingzhou Awakening Bureau; ~60; first in Lingzhou to touch the Stele (year 1, alphabetical); Analyst, Talent C "Precise Count"; 42 years of ledgers in 9 boxes | Annotating every line: "Mark of the Stele. Not a measurement of the person." Began with Lingyue |
+| **Shi Lei** | 17; son of a coal-yard worker; spear forms at 5 a.m. since age 6; same Awakening Day as Xiaoyu, after her | Helping Xiaoyu plan how to ask |
+| **Callum Ward** | 25, Port Halvard dock worker, Talent F | Sent up the Stele's thread (ch235) |
+| **Wen Jia** | Base layer; taken in year 2 at 17 (Wastes evacuation, the Wailing Monarch); never awakened; "only if it's something good" | Volunteer for the **Lingzhou** Stele |
+| **Wen Hao** | Her brother, 51; Number Nine bus driver (26 years), Talent D "Steady Hands"; wanted to be a teacher | Stops the bus outside the hall and counts to ten, 12 times a day; will bring her unworn blue jacket on the day |
+| Other volunteers | A Kesse midwife (Kesse); an ice-fisher, E (Novaya Zarya); a dock worker (Port Halvard); a 15-year-old Yamato novice (the valley below the shrine); a very old man (Port Abiri); the eleventh, a C "Precise Count" who said "ask again tomorrow" (counts the ones who say no; Stele unassigned); four others | Seed will forget them |
+| Lingyue | Can light only a grain-of-rice flame (weeks to recover). Crossed out the gold SSS on her ID card on air | — |
+| Xiaoyu | 17; Awakening Day in early summer; will touch the Stele to ask it; Article Ten to her mother ("your no stops at my window too") | Wall: Stele knot + "NOT YET" |

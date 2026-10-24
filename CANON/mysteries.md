@@ -107,3 +107,5 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - (ch231) The grafted branch's **gold bud**: asked every morning, no answer yet. Why did the rest of the tree stop turning toward Blue Star?
 - Who becomes the Lattice's new top knot after Xu?
 - The Collector planted the tree (Seed's guess, ch227) — still unconfirmed.
+- (ch233–235) **Steles**: grading stones of an orchard; threads to "whatever planted the tree" (the Collector?). What is the PICKER, and when does it come? Where did Callum Ward go up the thread?
+- What happens when a Stele with a yes in it sends nothing up?
