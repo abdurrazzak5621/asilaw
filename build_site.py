@@ -15,7 +15,7 @@ SITE_URL = 'https://czverse.github.io/asilaw/'
 TITLE = 'ASI Law: Sovereign of the Chaos Sea'
 ALT = 'Global Awakening: Unique Class Calamity Necromancer, My Supreme Intelligence Law Comprehends the Heavens 10,000 Times Faster'
 # (first chapter, book title) - add a row when a new book starts
-BOOKS = [(1, 'The Grave Under the City'), (81, 'The Star Sea'), (201, 'The Deep Water'), (259, 'Other Orchards')]
+BOOKS = [(1, 'The Grave Under the City'), (81, 'The Star Sea'), (201, 'The Deep Water'), (259, 'Other Orchards'), (299, 'The Empty House')]
 STAR = "<svg aria-hidden='true' viewBox='0 0 24 24'><path d='M12 1.5C12.7 8 16 11.3 22.5 12C16 12.7 12.7 16 12 22.5C11.3 16 8 12.7 1.5 12C8 11.3 11.3 8 12 1.5Z' fill='currentColor'/></svg>"
 esc = html.escape
 
