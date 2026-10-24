@@ -203,3 +203,9 @@
 | Other volunteers | A Kesse midwife (Kesse); an ice-fisher, E (Novaya Zarya); a dock worker (Port Halvard); a 15-year-old Yamato novice (the valley below the shrine); a very old man (Port Abiri); the eleventh, a C "Precise Count" who said "ask again tomorrow" (counts the ones who say no; Stele unassigned); four others | Seed will forget them |
 | Lingyue | Can light only a grain-of-rice flame (weeks to recover). Crossed out the gold SSS on her ID card on air | — |
 | Xiaoyu | 17; Awakening Day in early summer; will touch the Stele to ask it; Article Ten to her mother ("your no stops at my window too") | Wall: Stele knot + "NOT YET" |
+| Roman Sterling | Came to Lingzhou by ferry and train; Force = "deciding for things"; witness who says "no" after every Article Twelve statement; granddaughter turns 18 in four years |
+| Xiaoyu (ch241–242) | **Scribe (Chosen), Talent not marked.** Asked the Collector what it wants. Wall, at the very top: "THE COLLECTOR. ASKED. NO ANSWER YET. ASK AGAIN TOMORROW." / "THE ONE WHO PICKS. COMING." |
+| Wen Jia | The **Lingzhou Stele's yes**; asks every child; wrote "[Only if it's something good. It is.]" for Xiaoyu |
+| Old man at Port Abiri (base layer, ~80 at harvest) | Port Abiri Stele's yes; holding the pulled thread |
+| The Collector | Asked by Xiaoyu; "no one has asked me that... I do not know... ask me again tomorrow" |
+| Hu Dabao | A-rank Shield Guardian; on the north wall |

@@ -109,3 +109,5 @@ The Night Market (ch33); Mister Moon / Mercer (ch53, 68); WARDEN (ch52); Gu (ch6
 - The Collector planted the tree (Seed's guess, ch227) — still unconfirmed.
 - (ch233–235) **Steles**: grading stones of an orchard; threads to "whatever planted the tree" (the Collector?). What is the PICKER, and when does it come? Where did Callum Ward go up the thread?
 - What happens when a Stele with a yes in it sends nothing up?
+- (ch242) **The one who picks**: listens at the far end of the Stele threads; does not ask; is walking along the thread toward Blue Star, slowly. The Collector will be asked again "tomorrow".
+- Seed asks every morning "who was the first one?" and Yuanshu answers: Wen Jia.

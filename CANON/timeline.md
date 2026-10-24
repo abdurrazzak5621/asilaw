@@ -84,3 +84,5 @@ ch116 and ch120 say the seeds were dredged "eight months ago" (fixed from "eleve
 | +9 days | 231 | The gold bud. **End of Book 3, Part 2** |
 | +9 days after bud | 232 | Xiaoyu's Awakening letter: 34 days |
 | 33–26 days | 233–238 | The Hall; the knot read; told the world; Port Halvard; the eleven; Number Nine |
+| −19 to −1 | 239–240 | Sterling arrives; the eleven grafted at midnight before Awakening Day |
+| Awakening Day (early summer) | 241–242 | Asked awakenings in 11 halls; the Collector asked. **End of Book 3, Part 3** |
