@@ -233,3 +233,5 @@
 | Seed | Has twice asked someone before asking Yuanshu (a Candle core, a chosen); promised to ask first, "even if it's one second" |
 | **The daughter** (born ch272) | Zhou family; 2.6 kg, 4 weeks early, born in the Awakening Hall; unnamed so far; Seed asks her every morning |
 | **The Old Chord** | The Cantor's teachers on the choir-ship; pushed the 897 down the thread; silent after |
+| **Dacian Severin** | SSS, Paragon of House Severin, First of the Ladder, Fleet Marshal; never raises his voice; his House keeps the Lens |
+| **Corvane Varr-Anthos** | Matriarch of House Anthos, 61; gave Maelis to the fold; warned Blue Star of the Lens; will ask Maelis; keeps her face ("the only face I have") |
