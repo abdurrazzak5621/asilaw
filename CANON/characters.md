@@ -235,3 +235,6 @@
 | **The Old Chord** | The Cantor's teachers on the choir-ship; pushed the 897 down the thread; silent after |
 | **Dacian Severin** | SSS, Paragon of House Severin, First of the Ladder, Fleet Marshal; never raises his voice; his House keeps the Lens |
 | **Corvane Varr-Anthos** | Matriarch of House Anthos, 61; gave Maelis to the fold; warned Blue Star of the Lens; will ask Maelis; keeps her face ("the only face I have") |
+| **Tam's grandmother** | Dead; the Corraine stone's yes; "I've got a lot of no's saved up" |
+| **Tam's mother** | Fisherwoman on Corraine; Chosen: "someone who says no when they come for the children" |
+| **Halvarde** | C, 60 years in the arrays; no longer wears her face; knows all 31,000 rowers by name |
