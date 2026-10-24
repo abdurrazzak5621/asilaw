@@ -209,3 +209,5 @@
 | Old man at Port Abiri (base layer, ~80 at harvest) | Port Abiri Stele's yes; holding the pulled thread |
 | The Collector | Asked by Xiaoyu; "no one has asked me that... I do not know... ask me again tomorrow" |
 | Hu Dabao | A-rank Shield Guardian; on the north wall |
+| **Liang Fu** (ch246–247) | Want returned; remembers Shuanghe, sister **Liang Mei** (died ~9 yrs ago; kept the ferry), niece **Zeng Yan** (~49). Still ferries the sad for free. On the queen: "they want to be able to lose" |
+| **Callum Ward's mother** | At the front of the Port Halvard holders: "I'd like it to see my face" |
